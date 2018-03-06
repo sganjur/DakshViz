@@ -1,0 +1,40 @@
+,0,1,2,3
+0,Yes,The Candidate,Important,0.3177368162243514
+1,Yes,The Candidate,Not Important,0.2855801755353231
+2,Yes,The Candidate,Very Important,0.3651671161841184
+3,Yes,Candidate's Party,Very Important,0.27261619156894007
+4,Yes,Candidate's Party,Not Important,0.20523327720573992
+5,Yes,Candidate's Party,Important,0.49413640495313593
+6,Yes,Candidate's Caste/Religion,Not Important,0.4965056847814749
+7,Yes,Candidate's Caste/Religion,Important,0.25214203758065235
+8,Yes,Candidate's Caste/Religion,Very Important,0.21140234543801875
+9,Yes,Agri Loan,MEDIAN,3.333333333
+10,Yes,Electricity for Agriculture,MEDIAN,4.444444444
+11,Yes,Support Price for Agri Prod,MEDIAN,4.444444444
+12,Yes,Irrigation Programmes,MEDIAN,4.444444444
+13,Yes,Seeds & Fertilizers Subsidy,MEDIAN,3.333333333
+14,Yes,Accessibility of MP,MEDIAN,3.333333333
+15,Yes,Anti-Terrorism,MEDIAN,4.444444444
+16,Yes,Better Employment,MEDIAN,4.444444444
+17,Yes,Better Electric Supply,MEDIAN,4.444444444
+18,Yes,Better Hospitals / Primary Healthcare Centres,MEDIAN,4.444444444
+19,Yes,Better Law and Order / Policing,MEDIAN,4.444444444
+20,Yes,Better Public Transport,MEDIAN,4.444444444
+21,Yes,Better Roads,MEDIAN,4.444444444
+22,Yes,Better Schools,MEDIAN,4.444444444
+23,Yes,Drinking Water,MEDIAN,4.444444444
+24,Yes,Empowerment of Women,MEDIAN,4.444444444
+25,Yes,Environmental issues,MEDIAN,4.444444444
+26,Yes,Eradication of Corruption,MEDIAN,3.333333333
+27,Yes,Reservation for Jobs and Education,MEDIAN,4.444444444
+28,Yes,Security for Women,MEDIAN,4.444444444
+29,Yes,Strong Defence/Military,MEDIAN,4.444444444
+30,Yes,Subsidized Food Distribution,MEDIAN,4.444444444
+31,Yes,Jobs Training,MEDIAN,4.444444444
+32,Yes,Trustworthiness of MP,MEDIAN,4.444444444
+33,Yes,Other,MEDIAN,4.444444444
+34,Yes,Better Garbage Clearance,MEDIAN,3.333333333
+35,Yes,Encroachment of Public Lands / Lakes etc,MEDIAN,4.444444444
+36,Yes,Facility for Pedestrians and Cyclists on Roads,MEDIAN,4.444444444
+37,Yes,Lower Food Prices for Consumers,MEDIAN,4.444444444
+38,Yes,Traffic Congestion,MEDIAN,4.444444444

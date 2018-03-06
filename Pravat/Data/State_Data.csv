@@ -1,0 +1,1093 @@
+,0,1,2,3
+0,Andhra Pradesh,The Candidate,Important,0.4250902527075812
+1,Andhra Pradesh,The Candidate,Not Important,0.2774083222496675
+2,Andhra Pradesh,The Candidate,Very Important,0.24752992589777692
+3,Andhra Pradesh,Candidate's Party,Very Important,0.23095192855785673
+4,Andhra Pradesh,Candidate's Party,Not Important,0.19622838685160554
+5,Andhra Pradesh,Candidate's Party,Important,0.516245487364621
+6,Andhra Pradesh,Candidate's Caste/Religion,Not Important,0.3868041041231237
+7,Andhra Pradesh,Candidate's Caste/Religion,Important,0.35858825764772945
+8,Andhra Pradesh,Candidate's Caste/Religion,Very Important,0.1956108683260498
+9,Andhra Pradesh,Agri Loan,MEDIAN,3.333333333
+10,Andhra Pradesh,Electricity for Agriculture,MEDIAN,4.444444444
+11,Andhra Pradesh,Support Price for Agri Prod,MEDIAN,4.444444444
+12,Andhra Pradesh,Irrigation Programmes,MEDIAN,4.444444444
+13,Andhra Pradesh,Seeds & Fertilizers Subsidy,MEDIAN,4.444444444
+14,Andhra Pradesh,Accessibility of MP,MEDIAN,4.444444444
+15,Andhra Pradesh,Anti-Terrorism,MEDIAN,4.444444444
+16,Andhra Pradesh,Better Employment,MEDIAN,4.444444444
+17,Andhra Pradesh,Better Electric Supply,MEDIAN,4.444444444
+18,Andhra Pradesh,Better Hospitals / Primary Healthcare Centres,MEDIAN,4.444444444
+19,Andhra Pradesh,Better Law and Order / Policing,MEDIAN,4.444444444
+20,Andhra Pradesh,Better Public Transport,MEDIAN,4.444444444
+21,Andhra Pradesh,Better Roads,MEDIAN,4.444444444
+22,Andhra Pradesh,Better Schools,MEDIAN,4.444444444
+23,Andhra Pradesh,Drinking Water,MEDIAN,4.444444444
+24,Andhra Pradesh,Empowerment of Women,MEDIAN,4.444444444
+25,Andhra Pradesh,Environmental issues,MEDIAN,4.444444444
+26,Andhra Pradesh,Eradication of Corruption,MEDIAN,4.444444444
+27,Andhra Pradesh,Reservation for Jobs and Education,MEDIAN,4.444444444
+28,Andhra Pradesh,Security for Women,MEDIAN,4.444444444
+29,Andhra Pradesh,Strong Defence/Military,MEDIAN,4.444444444
+30,Andhra Pradesh,Subsidized Food Distribution,MEDIAN,4.444444444
+31,Andhra Pradesh,Jobs Training,MEDIAN,4.444444444
+32,Andhra Pradesh,Trustworthiness of MP,MEDIAN,4.444444444
+33,Andhra Pradesh,Other,MEDIAN,4.444444444
+34,Andhra Pradesh,Better Garbage Clearance,MEDIAN,3.333333333
+35,Andhra Pradesh,Encroachment of Public Lands / Lakes etc,MEDIAN,4.444444444
+36,Andhra Pradesh,Facility for Pedestrians and Cyclists on Roads,MEDIAN,4.444444444
+37,Andhra Pradesh,Lower Food Prices for Consumers,MEDIAN,4.444444444
+38,Andhra Pradesh,Traffic Congestion,MEDIAN,4.444444444
+39,ASSAM,The Candidate,Important,0.3084332612541773
+40,ASSAM,The Candidate,Not Important,0.16532337330450167
+41,ASSAM,The Candidate,Very Important,0.438962060153332
+42,ASSAM,Candidate's Party,Very Important,0.4090819736583448
+43,ASSAM,Candidate's Party,Not Important,0.17554550815804992
+44,ASSAM,Candidate's Party,Important,0.32258698643601336
+45,ASSAM,Candidate's Caste/Religion,Not Important,0.6164733634755258
+46,ASSAM,Candidate's Caste/Religion,Important,0.15018675054059366
+47,ASSAM,Candidate's Caste/Religion,Very Important,0.0682130921957932
+48,ASSAM,Agri Loan,MEDIAN,3.333333333
+49,ASSAM,Electricity for Agriculture,MEDIAN,3.333333333
+50,ASSAM,Support Price for Agri Prod,MEDIAN,3.333333333
+51,ASSAM,Irrigation Programmes,MEDIAN,3.333333333
+52,ASSAM,Seeds & Fertilizers Subsidy,MEDIAN,3.333333333
+53,ASSAM,Accessibility of MP,MEDIAN,3.333333333
+54,ASSAM,Anti-Terrorism,MEDIAN,3.333333333
+55,ASSAM,Better Employment,MEDIAN,3.333333333
+56,ASSAM,Better Electric Supply,MEDIAN,3.333333333
+57,ASSAM,Better Hospitals / Primary Healthcare Centres,MEDIAN,3.333333333
+58,ASSAM,Better Law and Order / Policing,MEDIAN,3.333333333
+59,ASSAM,Better Public Transport,MEDIAN,3.333333333
+60,ASSAM,Better Roads,MEDIAN,3.333333333
+61,ASSAM,Better Schools,MEDIAN,3.333333333
+62,ASSAM,Drinking Water,MEDIAN,3.333333333
+63,ASSAM,Empowerment of Women,MEDIAN,3.333333333
+64,ASSAM,Environmental issues,MEDIAN,3.333333333
+65,ASSAM,Eradication of Corruption,MEDIAN,3.333333333
+66,ASSAM,Reservation for Jobs and Education,MEDIAN,3.333333333
+67,ASSAM,Security for Women,MEDIAN,3.333333333
+68,ASSAM,Strong Defence/Military,MEDIAN,3.333333333
+69,ASSAM,Subsidized Food Distribution,MEDIAN,3.333333333
+70,ASSAM,Jobs Training,MEDIAN,3.333333333
+71,ASSAM,Trustworthiness of MP,MEDIAN,3.333333333
+72,ASSAM,Other,MEDIAN,3.333333333
+73,ASSAM,Better Garbage Clearance,MEDIAN,3.333333333
+74,ASSAM,Encroachment of Public Lands / Lakes etc,MEDIAN,3.333333333
+75,ASSAM,Facility for Pedestrians and Cyclists on Roads,MEDIAN,3.333333333
+76,ASSAM,Lower Food Prices for Consumers,MEDIAN,3.333333333
+77,ASSAM,Traffic Congestion,MEDIAN,4.444444444
+78,Bihar,The Candidate,Important,0.49791927801454
+79,Bihar,The Candidate,Not Important,0.08934570067686137
+80,Bihar,The Candidate,Very Important,0.4127350213085986
+81,Bihar,Candidate's Party,Very Important,0.07330157934319378
+82,Bihar,Candidate's Party,Not Important,0.3544748057157182
+83,Bihar,Candidate's Party,Important,0.572223614941088
+84,Bihar,Candidate's Caste/Religion,Not Important,0.7379794434695413
+85,Bihar,Candidate's Caste/Religion,Important,0.23279017297568314
+86,Bihar,Candidate's Caste/Religion,Very Important,0.029230383554775634
+87,Bihar,Agri Loan,MEDIAN,3.333333333
+88,Bihar,Electricity for Agriculture,MEDIAN,3.333333333
+89,Bihar,Support Price for Agri Prod,MEDIAN,3.333333333
+90,Bihar,Irrigation Programmes,MEDIAN,3.333333333
+91,Bihar,Seeds & Fertilizers Subsidy,MEDIAN,3.333333333
+92,Bihar,Accessibility of MP,MEDIAN,3.333333333
+93,Bihar,Anti-Terrorism,MEDIAN,3.333333333
+94,Bihar,Better Employment,MEDIAN,3.333333333
+95,Bihar,Better Electric Supply,MEDIAN,3.333333333
+96,Bihar,Better Hospitals / Primary Healthcare Centres,MEDIAN,3.333333333
+97,Bihar,Better Law and Order / Policing,MEDIAN,3.333333333
+98,Bihar,Better Public Transport,MEDIAN,3.333333333
+99,Bihar,Better Roads,MEDIAN,3.333333333
+100,Bihar,Better Schools,MEDIAN,3.333333333
+101,Bihar,Drinking Water,MEDIAN,3.333333333
+102,Bihar,Empowerment of Women,MEDIAN,3.333333333
+103,Bihar,Environmental issues,MEDIAN,3.333333333
+104,Bihar,Eradication of Corruption,MEDIAN,3.333333333
+105,Bihar,Reservation for Jobs and Education,MEDIAN,3.333333333
+106,Bihar,Security for Women,MEDIAN,3.333333333
+107,Bihar,Strong Defence/Military,MEDIAN,3.333333333
+108,Bihar,Subsidized Food Distribution,MEDIAN,3.333333333
+109,Bihar,Jobs Training,MEDIAN,3.333333333
+110,Bihar,Trustworthiness of MP,MEDIAN,3.333333333
+111,Bihar,Other,MEDIAN,
+112,Bihar,Better Garbage Clearance,MEDIAN,3.333333333
+113,Bihar,Encroachment of Public Lands / Lakes etc,MEDIAN,3.333333333
+114,Bihar,Facility for Pedestrians and Cyclists on Roads,MEDIAN,3.333333333
+115,Bihar,Lower Food Prices for Consumers,MEDIAN,3.333333333
+116,Bihar,Traffic Congestion,MEDIAN,4.444444444
+117,Chandigarh,The Candidate,Important,0.3838582677165354
+118,Chandigarh,The Candidate,Not Important,0.13976377952755906
+119,Chandigarh,The Candidate,Very Important,0.4763779527559055
+120,Chandigarh,Candidate's Party,Very Important,0.31299212598425197
+121,Chandigarh,Candidate's Party,Not Important,0.5570866141732284
+122,Chandigarh,Candidate's Party,Important,0.12992125984251968
+123,Chandigarh,Candidate's Caste/Religion,Not Important,0.7834645669291339
+124,Chandigarh,Candidate's Caste/Religion,Important,0.16535433070866143
+125,Chandigarh,Candidate's Caste/Religion,Very Important,0.051181102362204724
+126,Chandigarh,Agri Loan,MEDIAN,
+127,Chandigarh,Electricity for Agriculture,MEDIAN,
+128,Chandigarh,Support Price for Agri Prod,MEDIAN,
+129,Chandigarh,Irrigation Programmes,MEDIAN,
+130,Chandigarh,Seeds & Fertilizers Subsidy,MEDIAN,
+131,Chandigarh,Accessibility of MP,MEDIAN,2.222222222
+132,Chandigarh,Anti-Terrorism,MEDIAN,2.222222222
+133,Chandigarh,Better Employment,MEDIAN,2.7777777775
+134,Chandigarh,Better Electric Supply,MEDIAN,2.222222222
+135,Chandigarh,Better Hospitals / Primary Healthcare Centres,MEDIAN,2.222222222
+136,Chandigarh,Better Law and Order / Policing,MEDIAN,2.222222222
+137,Chandigarh,Better Public Transport,MEDIAN,2.222222222
+138,Chandigarh,Better Roads,MEDIAN,2.222222222
+139,Chandigarh,Better Schools,MEDIAN,2.222222222
+140,Chandigarh,Drinking Water,MEDIAN,2.222222222
+141,Chandigarh,Empowerment of Women,MEDIAN,2.222222222
+142,Chandigarh,Environmental issues,MEDIAN,2.222222222
+143,Chandigarh,Eradication of Corruption,MEDIAN,2.222222222
+144,Chandigarh,Reservation for Jobs and Education,MEDIAN,2.222222222
+145,Chandigarh,Security for Women,MEDIAN,2.222222222
+146,Chandigarh,Strong Defence/Military,MEDIAN,2.222222222
+147,Chandigarh,Subsidized Food Distribution,MEDIAN,2.222222222
+148,Chandigarh,Jobs Training,MEDIAN,2.222222222
+149,Chandigarh,Trustworthiness of MP,MEDIAN,1.111111111
+150,Chandigarh,Other,MEDIAN,
+151,Chandigarh,Better Garbage Clearance,MEDIAN,2.222222222
+152,Chandigarh,Encroachment of Public Lands / Lakes etc,MEDIAN,1.111111111
+153,Chandigarh,Facility for Pedestrians and Cyclists on Roads,MEDIAN,2.222222222
+154,Chandigarh,Lower Food Prices for Consumers,MEDIAN,2.7777777775
+155,Chandigarh,Traffic Congestion,MEDIAN,1.111111111
+156,CHHATTISGARH,The Candidate,Important,0.1519703472493172
+157,CHHATTISGARH,The Candidate,Not Important,0.3667577058134998
+158,CHHATTISGARH,The Candidate,Very Important,0.45825204838080374
+159,CHHATTISGARH,Candidate's Party,Very Important,0.2633632461958642
+160,CHHATTISGARH,Candidate's Party,Not Important,0.3384705423332033
+161,CHHATTISGARH,Candidate's Party,Important,0.3735856418259852
+162,CHHATTISGARH,Candidate's Caste/Religion,Not Important,0.4108466640655482
+163,CHHATTISGARH,Candidate's Caste/Religion,Important,0.4012875536480687
+164,CHHATTISGARH,Candidate's Caste/Religion,Very Important,0.15801794771751854
+165,CHHATTISGARH,Agri Loan,MEDIAN,2.222222222
+166,CHHATTISGARH,Electricity for Agriculture,MEDIAN,4.444444444
+167,CHHATTISGARH,Support Price for Agri Prod,MEDIAN,4.444444444
+168,CHHATTISGARH,Irrigation Programmes,MEDIAN,4.444444444
+169,CHHATTISGARH,Seeds & Fertilizers Subsidy,MEDIAN,4.444444444
+170,CHHATTISGARH,Accessibility of MP,MEDIAN,4.444444444
+171,CHHATTISGARH,Anti-Terrorism,MEDIAN,4.444444444
+172,CHHATTISGARH,Better Employment,MEDIAN,4.444444444
+173,CHHATTISGARH,Better Electric Supply,MEDIAN,4.444444444
+174,CHHATTISGARH,Better Hospitals / Primary Healthcare Centres,MEDIAN,4.444444444
+175,CHHATTISGARH,Better Law and Order / Policing,MEDIAN,4.444444444
+176,CHHATTISGARH,Better Public Transport,MEDIAN,4.444444444
+177,CHHATTISGARH,Better Roads,MEDIAN,4.444444444
+178,CHHATTISGARH,Better Schools,MEDIAN,4.444444444
+179,CHHATTISGARH,Drinking Water,MEDIAN,4.444444444
+180,CHHATTISGARH,Empowerment of Women,MEDIAN,4.444444444
+181,CHHATTISGARH,Environmental issues,MEDIAN,4.444444444
+182,CHHATTISGARH,Eradication of Corruption,MEDIAN,4.444444444
+183,CHHATTISGARH,Reservation for Jobs and Education,MEDIAN,4.444444444
+184,CHHATTISGARH,Security for Women,MEDIAN,4.444444444
+185,CHHATTISGARH,Strong Defence/Military,MEDIAN,4.444444444
+186,CHHATTISGARH,Subsidized Food Distribution,MEDIAN,4.444444444
+187,CHHATTISGARH,Jobs Training,MEDIAN,4.444444444
+188,CHHATTISGARH,Trustworthiness of MP,MEDIAN,4.444444444
+189,CHHATTISGARH,Other,MEDIAN,4.444444444
+190,CHHATTISGARH,Better Garbage Clearance,MEDIAN,4.444444444
+191,CHHATTISGARH,Encroachment of Public Lands / Lakes etc,MEDIAN,4.444444444
+192,CHHATTISGARH,Facility for Pedestrians and Cyclists on Roads,MEDIAN,4.444444444
+193,CHHATTISGARH,Lower Food Prices for Consumers,MEDIAN,4.444444444
+194,CHHATTISGARH,Traffic Congestion,MEDIAN,4.444444444
+195,DADRA & NAGAR HAVELI,The Candidate,Important,0.057494866529774126
+196,DADRA & NAGAR HAVELI,The Candidate,Not Important,0.26899383983572894
+197,DADRA & NAGAR HAVELI,The Candidate,Very Important,0.12320328542094455
+198,DADRA & NAGAR HAVELI,Candidate's Party,Very Important,0.04106776180698152
+199,DADRA & NAGAR HAVELI,Candidate's Party,Not Important,0.5441478439425051
+200,DADRA & NAGAR HAVELI,Candidate's Party,Important,0.38809034907597534
+201,DADRA & NAGAR HAVELI,Candidate's Caste/Religion,Not Important,0.1026694045174538
+202,DADRA & NAGAR HAVELI,Candidate's Caste/Religion,Important,0.12525667351129363
+203,DADRA & NAGAR HAVELI,Candidate's Caste/Religion,Very Important,0.5071868583162218
+204,DADRA & NAGAR HAVELI,Agri Loan,MEDIAN,1.111111111
+205,DADRA & NAGAR HAVELI,Electricity for Agriculture,MEDIAN,4.444444444
+206,DADRA & NAGAR HAVELI,Support Price for Agri Prod,MEDIAN,6.666666667
+207,DADRA & NAGAR HAVELI,Irrigation Programmes,MEDIAN,4.444444444
+208,DADRA & NAGAR HAVELI,Seeds & Fertilizers Subsidy,MEDIAN,3.333333333
+209,DADRA & NAGAR HAVELI,Accessibility of MP,MEDIAN,2.222222222
+210,DADRA & NAGAR HAVELI,Anti-Terrorism,MEDIAN,4.444444444
+211,DADRA & NAGAR HAVELI,Better Employment,MEDIAN,10.0
+212,DADRA & NAGAR HAVELI,Better Electric Supply,MEDIAN,4.444444444
+213,DADRA & NAGAR HAVELI,Better Hospitals / Primary Healthcare Centres,MEDIAN,2.222222222
+214,DADRA & NAGAR HAVELI,Better Law and Order / Policing,MEDIAN,4.444444444
+215,DADRA & NAGAR HAVELI,Better Public Transport,MEDIAN,6.666666667
+216,DADRA & NAGAR HAVELI,Better Roads,MEDIAN,4.444444444
+217,DADRA & NAGAR HAVELI,Better Schools,MEDIAN,2.222222222
+218,DADRA & NAGAR HAVELI,Drinking Water,MEDIAN,4.444444444
+219,DADRA & NAGAR HAVELI,Empowerment of Women,MEDIAN,4.444444444
+220,DADRA & NAGAR HAVELI,Environmental issues,MEDIAN,4.444444444
+221,DADRA & NAGAR HAVELI,Eradication of Corruption,MEDIAN,3.333333333
+222,DADRA & NAGAR HAVELI,Reservation for Jobs and Education,MEDIAN,4.444444444
+223,DADRA & NAGAR HAVELI,Security for Women,MEDIAN,4.444444444
+224,DADRA & NAGAR HAVELI,Strong Defence/Military,MEDIAN,4.444444444
+225,DADRA & NAGAR HAVELI,Subsidized Food Distribution,MEDIAN,3.333333333
+226,DADRA & NAGAR HAVELI,Jobs Training,MEDIAN,4.444444444
+227,DADRA & NAGAR HAVELI,Trustworthiness of MP,MEDIAN,4.444444444
+228,DADRA & NAGAR HAVELI,Other,MEDIAN,4.444444444
+229,DADRA & NAGAR HAVELI,Better Garbage Clearance,MEDIAN,1.111111111
+230,DADRA & NAGAR HAVELI,Encroachment of Public Lands / Lakes etc,MEDIAN,4.444444444
+231,DADRA & NAGAR HAVELI,Facility for Pedestrians and Cyclists on Roads,MEDIAN,10.0
+232,DADRA & NAGAR HAVELI,Lower Food Prices for Consumers,MEDIAN,4.444444444
+233,DADRA & NAGAR HAVELI,Traffic Congestion,MEDIAN,1.111111111
+234,DAMAN & DIU,The Candidate,Important,0.001976284584980237
+235,DAMAN & DIU,The Candidate,Not Important,0.9782608695652174
+236,DAMAN & DIU,The Candidate,Very Important,0.0
+237,DAMAN & DIU,Candidate's Party,Very Important,0.003952569169960474
+238,DAMAN & DIU,Candidate's Party,Not Important,0.08300395256916997
+239,DAMAN & DIU,Candidate's Party,Important,0.8932806324110671
+240,DAMAN & DIU,Candidate's Caste/Religion,Not Important,0.12450592885375494
+241,DAMAN & DIU,Candidate's Caste/Religion,Important,0.08695652173913043
+242,DAMAN & DIU,Candidate's Caste/Religion,Very Important,0.7549407114624506
+243,DAMAN & DIU,Agri Loan,MEDIAN,1.111111111
+244,DAMAN & DIU,Electricity for Agriculture,MEDIAN,4.444444444
+245,DAMAN & DIU,Support Price for Agri Prod,MEDIAN,10.0
+246,DAMAN & DIU,Irrigation Programmes,MEDIAN,4.444444444
+247,DAMAN & DIU,Seeds & Fertilizers Subsidy,MEDIAN,4.444444444
+248,DAMAN & DIU,Accessibility of MP,MEDIAN,1.111111111
+249,DAMAN & DIU,Anti-Terrorism,MEDIAN,4.444444444
+250,DAMAN & DIU,Better Employment,MEDIAN,10.0
+251,DAMAN & DIU,Better Electric Supply,MEDIAN,4.444444444
+252,DAMAN & DIU,Better Hospitals / Primary Healthcare Centres,MEDIAN,2.222222222
+253,DAMAN & DIU,Better Law and Order / Policing,MEDIAN,4.444444444
+254,DAMAN & DIU,Better Public Transport,MEDIAN,10.0
+255,DAMAN & DIU,Better Roads,MEDIAN,4.444444444
+256,DAMAN & DIU,Better Schools,MEDIAN,1.111111111
+257,DAMAN & DIU,Drinking Water,MEDIAN,4.444444444
+258,DAMAN & DIU,Empowerment of Women,MEDIAN,10.0
+259,DAMAN & DIU,Environmental issues,MEDIAN,4.444444444
+260,DAMAN & DIU,Eradication of Corruption,MEDIAN,2.222222222
+261,DAMAN & DIU,Reservation for Jobs and Education,MEDIAN,4.444444444
+262,DAMAN & DIU,Security for Women,MEDIAN,6.666666667
+263,DAMAN & DIU,Strong Defence/Military,MEDIAN,4.444444444
+264,DAMAN & DIU,Subsidized Food Distribution,MEDIAN,2.222222222
+265,DAMAN & DIU,Jobs Training,MEDIAN,4.444444444
+266,DAMAN & DIU,Trustworthiness of MP,MEDIAN,3.333333333
+267,DAMAN & DIU,Other,MEDIAN,4.444444444
+268,DAMAN & DIU,Better Garbage Clearance,MEDIAN,1.111111111
+269,DAMAN & DIU,Encroachment of Public Lands / Lakes etc,MEDIAN,4.444444444
+270,DAMAN & DIU,Facility for Pedestrians and Cyclists on Roads,MEDIAN,10.0
+271,DAMAN & DIU,Lower Food Prices for Consumers,MEDIAN,4.444444444
+272,DAMAN & DIU,Traffic Congestion,MEDIAN,4.444444444
+273,Delhi,The Candidate,Important,0.26780141843971633
+274,Delhi,The Candidate,Not Important,0.05560283687943263
+275,Delhi,The Candidate,Very Important,0.676595744680851
+276,Delhi,Candidate's Party,Very Important,0.41134751773049644
+277,Delhi,Candidate's Party,Not Important,0.20453900709219858
+278,Delhi,Candidate's Party,Important,0.384113475177305
+279,Delhi,Candidate's Caste/Religion,Not Important,0.6065248226950355
+280,Delhi,Candidate's Caste/Religion,Important,0.18695035460992906
+281,Delhi,Candidate's Caste/Religion,Very Important,0.20652482269503547
+282,Delhi,Agri Loan,MEDIAN,
+283,Delhi,Electricity for Agriculture,MEDIAN,
+284,Delhi,Support Price for Agri Prod,MEDIAN,
+285,Delhi,Irrigation Programmes,MEDIAN,
+286,Delhi,Seeds & Fertilizers Subsidy,MEDIAN,
+287,Delhi,Accessibility of MP,MEDIAN,6.666666667
+288,Delhi,Anti-Terrorism,MEDIAN,4.444444444
+289,Delhi,Better Employment,MEDIAN,4.444444444
+290,Delhi,Better Electric Supply,MEDIAN,6.666666667
+291,Delhi,Better Hospitals / Primary Healthcare Centres,MEDIAN,6.666666667
+292,Delhi,Better Law and Order / Policing,MEDIAN,6.666666667
+293,Delhi,Better Public Transport,MEDIAN,6.666666667
+294,Delhi,Better Roads,MEDIAN,6.666666667
+295,Delhi,Better Schools,MEDIAN,6.666666667
+296,Delhi,Drinking Water,MEDIAN,6.666666667
+297,Delhi,Empowerment of Women,MEDIAN,6.666666667
+298,Delhi,Environmental issues,MEDIAN,4.444444444
+299,Delhi,Eradication of Corruption,MEDIAN,4.444444444
+300,Delhi,Reservation for Jobs and Education,MEDIAN,3.333333333
+301,Delhi,Security for Women,MEDIAN,4.444444444
+302,Delhi,Strong Defence/Military,MEDIAN,6.666666667
+303,Delhi,Subsidized Food Distribution,MEDIAN,4.444444444
+304,Delhi,Jobs Training,MEDIAN,3.333333333
+305,Delhi,Trustworthiness of MP,MEDIAN,4.444444444
+306,Delhi,Other,MEDIAN,
+307,Delhi,Better Garbage Clearance,MEDIAN,4.444444444
+308,Delhi,Encroachment of Public Lands / Lakes etc,MEDIAN,3.333333333
+309,Delhi,Facility for Pedestrians and Cyclists on Roads,MEDIAN,4.444444444
+310,Delhi,Lower Food Prices for Consumers,MEDIAN,3.333333333
+311,Delhi,Traffic Congestion,MEDIAN,10.0
+312,GOA,The Candidate,Important,0.3647859922178988
+313,GOA,The Candidate,Not Important,0.07879377431906615
+314,GOA,The Candidate,Very Important,0.5515564202334631
+315,GOA,Candidate's Party,Very Important,0.23832684824902725
+316,GOA,Candidate's Party,Not Important,0.23346303501945526
+317,GOA,Candidate's Party,Important,0.5204280155642024
+318,GOA,Candidate's Caste/Religion,Not Important,0.8404669260700389
+319,GOA,Candidate's Caste/Religion,Important,0.13910505836575876
+320,GOA,Candidate's Caste/Religion,Very Important,0.010700389105058366
+321,GOA,Agri Loan,MEDIAN,4.444444444
+322,GOA,Electricity for Agriculture,MEDIAN,4.444444444
+323,GOA,Support Price for Agri Prod,MEDIAN,4.444444444
+324,GOA,Irrigation Programmes,MEDIAN,4.444444444
+325,GOA,Seeds & Fertilizers Subsidy,MEDIAN,4.444444444
+326,GOA,Accessibility of MP,MEDIAN,4.444444444
+327,GOA,Anti-Terrorism,MEDIAN,4.444444444
+328,GOA,Better Employment,MEDIAN,4.444444444
+329,GOA,Better Electric Supply,MEDIAN,6.666666667
+330,GOA,Better Hospitals / Primary Healthcare Centres,MEDIAN,6.666666667
+331,GOA,Better Law and Order / Policing,MEDIAN,6.666666667
+332,GOA,Better Public Transport,MEDIAN,6.666666667
+333,GOA,Better Roads,MEDIAN,6.666666667
+334,GOA,Better Schools,MEDIAN,6.666666667
+335,GOA,Drinking Water,MEDIAN,6.666666667
+336,GOA,Empowerment of Women,MEDIAN,6.666666667
+337,GOA,Environmental issues,MEDIAN,4.444444444
+338,GOA,Eradication of Corruption,MEDIAN,4.444444444
+339,GOA,Reservation for Jobs and Education,MEDIAN,4.444444444
+340,GOA,Security for Women,MEDIAN,6.666666667
+341,GOA,Strong Defence/Military,MEDIAN,6.666666667
+342,GOA,Subsidized Food Distribution,MEDIAN,6.666666667
+343,GOA,Jobs Training,MEDIAN,4.444444444
+344,GOA,Trustworthiness of MP,MEDIAN,6.666666667
+345,GOA,Other,MEDIAN,6.666666667
+346,GOA,Better Garbage Clearance,MEDIAN,6.666666667
+347,GOA,Encroachment of Public Lands / Lakes etc,MEDIAN,4.444444444
+348,GOA,Facility for Pedestrians and Cyclists on Roads,MEDIAN,6.666666667
+349,GOA,Lower Food Prices for Consumers,MEDIAN,6.666666667
+350,GOA,Traffic Congestion,MEDIAN,10.0
+351,GUJARAT,The Candidate,Important,0.13572263342423063
+352,GUJARAT,The Candidate,Not Important,0.7302687962602259
+353,GUJARAT,The Candidate,Very Important,0.11632255551227114
+354,GUJARAT,Candidate's Party,Very Important,0.11055707051032333
+355,GUJARAT,Candidate's Party,Not Important,0.10292169848071679
+356,GUJARAT,Candidate's Party,Important,0.7695364238410596
+357,GUJARAT,Candidate's Caste/Religion,Not Important,0.1345539540319439
+358,GUJARAT,Candidate's Caste/Religion,Important,0.23895597974289054
+359,GUJARAT,Candidate's Caste/Religion,Very Important,0.603895597974289
+360,GUJARAT,Agri Loan,MEDIAN,1.111111111
+361,GUJARAT,Electricity for Agriculture,MEDIAN,4.444444444
+362,GUJARAT,Support Price for Agri Prod,MEDIAN,6.666666667
+363,GUJARAT,Irrigation Programmes,MEDIAN,4.444444444
+364,GUJARAT,Seeds & Fertilizers Subsidy,MEDIAN,3.333333333
+365,GUJARAT,Accessibility of MP,MEDIAN,1.111111111
+366,GUJARAT,Anti-Terrorism,MEDIAN,4.444444444
+367,GUJARAT,Better Employment,MEDIAN,10.0
+368,GUJARAT,Better Electric Supply,MEDIAN,4.444444444
+369,GUJARAT,Better Hospitals / Primary Healthcare Centres,MEDIAN,2.222222222
+370,GUJARAT,Better Law and Order / Policing,MEDIAN,4.444444444
+371,GUJARAT,Better Public Transport,MEDIAN,6.666666667
+372,GUJARAT,Better Roads,MEDIAN,4.444444444
+373,GUJARAT,Better Schools,MEDIAN,2.222222222
+374,GUJARAT,Drinking Water,MEDIAN,4.444444444
+375,GUJARAT,Empowerment of Women,MEDIAN,6.666666667
+376,GUJARAT,Environmental issues,MEDIAN,4.444444444
+377,GUJARAT,Eradication of Corruption,MEDIAN,2.222222222
+378,GUJARAT,Reservation for Jobs and Education,MEDIAN,4.444444444
+379,GUJARAT,Security for Women,MEDIAN,4.444444444
+380,GUJARAT,Strong Defence/Military,MEDIAN,4.444444444
+381,GUJARAT,Subsidized Food Distribution,MEDIAN,3.333333333
+382,GUJARAT,Jobs Training,MEDIAN,4.444444444
+383,GUJARAT,Trustworthiness of MP,MEDIAN,4.444444444
+384,GUJARAT,Other,MEDIAN,4.444444444
+385,GUJARAT,Better Garbage Clearance,MEDIAN,1.111111111
+386,GUJARAT,Encroachment of Public Lands / Lakes etc,MEDIAN,4.444444444
+387,GUJARAT,Facility for Pedestrians and Cyclists on Roads,MEDIAN,6.666666667
+388,GUJARAT,Lower Food Prices for Consumers,MEDIAN,4.444444444
+389,GUJARAT,Traffic Congestion,MEDIAN,4.444444444
+390,Haryana,The Candidate,Important,0.3621301775147929
+391,Haryana,The Candidate,Not Important,0.10453648915187377
+392,Haryana,The Candidate,Very Important,0.5333333333333333
+393,Haryana,Candidate's Party,Very Important,0.19566074950690335
+394,Haryana,Candidate's Party,Not Important,0.24970414201183433
+395,Haryana,Candidate's Party,Important,0.5546351084812623
+396,Haryana,Candidate's Caste/Religion,Not Important,0.7794871794871795
+397,Haryana,Candidate's Caste/Religion,Important,0.17258382642998027
+398,Haryana,Candidate's Caste/Religion,Very Important,0.04792899408284024
+399,Haryana,Agri Loan,MEDIAN,3.333333333
+400,Haryana,Electricity for Agriculture,MEDIAN,3.333333333
+401,Haryana,Support Price for Agri Prod,MEDIAN,3.333333333
+402,Haryana,Irrigation Programmes,MEDIAN,3.333333333
+403,Haryana,Seeds & Fertilizers Subsidy,MEDIAN,3.333333333
+404,Haryana,Accessibility of MP,MEDIAN,3.333333333
+405,Haryana,Anti-Terrorism,MEDIAN,3.333333333
+406,Haryana,Better Employment,MEDIAN,3.333333333
+407,Haryana,Better Electric Supply,MEDIAN,3.333333333
+408,Haryana,Better Hospitals / Primary Healthcare Centres,MEDIAN,3.333333333
+409,Haryana,Better Law and Order / Policing,MEDIAN,3.333333333
+410,Haryana,Better Public Transport,MEDIAN,3.333333333
+411,Haryana,Better Roads,MEDIAN,3.333333333
+412,Haryana,Better Schools,MEDIAN,3.333333333
+413,Haryana,Drinking Water,MEDIAN,3.333333333
+414,Haryana,Empowerment of Women,MEDIAN,3.333333333
+415,Haryana,Environmental issues,MEDIAN,3.333333333
+416,Haryana,Eradication of Corruption,MEDIAN,3.333333333
+417,Haryana,Reservation for Jobs and Education,MEDIAN,3.333333333
+418,Haryana,Security for Women,MEDIAN,3.333333333
+419,Haryana,Strong Defence/Military,MEDIAN,3.333333333
+420,Haryana,Subsidized Food Distribution,MEDIAN,3.333333333
+421,Haryana,Jobs Training,MEDIAN,3.333333333
+422,Haryana,Trustworthiness of MP,MEDIAN,3.333333333
+423,Haryana,Other,MEDIAN,1.111111111
+424,Haryana,Better Garbage Clearance,MEDIAN,3.333333333
+425,Haryana,Encroachment of Public Lands / Lakes etc,MEDIAN,3.333333333
+426,Haryana,Facility for Pedestrians and Cyclists on Roads,MEDIAN,3.333333333
+427,Haryana,Lower Food Prices for Consumers,MEDIAN,3.333333333
+428,Haryana,Traffic Congestion,MEDIAN,4.444444444
+429,Himachal,The Candidate,Important,0.26053639846743293
+430,Himachal,The Candidate,Not Important,0.04741379310344827
+431,Himachal,The Candidate,Very Important,0.6920498084291188
+432,Himachal,Candidate's Party,Very Important,0.15613026819923373
+433,Himachal,Candidate's Party,Not Important,0.16331417624521072
+434,Himachal,Candidate's Party,Important,0.6805555555555556
+435,Himachal,Candidate's Caste/Religion,Not Important,0.842911877394636
+436,Himachal,Candidate's Caste/Religion,Important,0.10919540229885058
+437,Himachal,Candidate's Caste/Religion,Very Important,0.04789272030651341
+438,Himachal,Agri Loan,MEDIAN,4.444444444
+439,Himachal,Electricity for Agriculture,MEDIAN,4.444444444
+440,Himachal,Support Price for Agri Prod,MEDIAN,6.666666667
+441,Himachal,Irrigation Programmes,MEDIAN,6.666666667
+442,Himachal,Seeds & Fertilizers Subsidy,MEDIAN,4.444444444
+443,Himachal,Accessibility of MP,MEDIAN,4.444444444
+444,Himachal,Anti-Terrorism,MEDIAN,4.444444444
+445,Himachal,Better Employment,MEDIAN,4.444444444
+446,Himachal,Better Electric Supply,MEDIAN,4.444444444
+447,Himachal,Better Hospitals / Primary Healthcare Centres,MEDIAN,6.666666667
+448,Himachal,Better Law and Order / Policing,MEDIAN,6.666666667
+449,Himachal,Better Public Transport,MEDIAN,6.666666667
+450,Himachal,Better Roads,MEDIAN,6.666666667
+451,Himachal,Better Schools,MEDIAN,6.666666667
+452,Himachal,Drinking Water,MEDIAN,6.666666667
+453,Himachal,Empowerment of Women,MEDIAN,6.666666667
+454,Himachal,Environmental issues,MEDIAN,6.666666667
+455,Himachal,Eradication of Corruption,MEDIAN,4.444444444
+456,Himachal,Reservation for Jobs and Education,MEDIAN,6.666666667
+457,Himachal,Security for Women,MEDIAN,6.666666667
+458,Himachal,Strong Defence/Military,MEDIAN,6.666666667
+459,Himachal,Subsidized Food Distribution,MEDIAN,4.444444444
+460,Himachal,Jobs Training,MEDIAN,4.444444444
+461,Himachal,Trustworthiness of MP,MEDIAN,4.444444444
+462,Himachal,Other,MEDIAN,
+463,Himachal,Better Garbage Clearance,MEDIAN,
+464,Himachal,Encroachment of Public Lands / Lakes etc,MEDIAN,
+465,Himachal,Facility for Pedestrians and Cyclists on Roads,MEDIAN,
+466,Himachal,Lower Food Prices for Consumers,MEDIAN,
+467,Himachal,Traffic Congestion,MEDIAN,
+468,Jharkhand,The Candidate,Important,0.6955571740713765
+469,Jharkhand,The Candidate,Not Important,0.08958485069191552
+470,Jharkhand,The Candidate,Very Important,0.21485797523670794
+471,Jharkhand,Candidate's Party,Very Important,0.05316824471959213
+472,Jharkhand,Candidate's Party,Not Important,0.30152949745083757
+473,Jharkhand,Candidate's Party,Important,0.6453022578295703
+474,Jharkhand,Candidate's Caste/Religion,Not Important,0.8289876183539694
+475,Jharkhand,Candidate's Caste/Religion,Important,0.13343044428259287
+476,Jharkhand,Candidate's Caste/Religion,Very Important,0.03758193736343773
+477,Jharkhand,Agri Loan,MEDIAN,4.444444444
+478,Jharkhand,Electricity for Agriculture,MEDIAN,4.444444444
+479,Jharkhand,Support Price for Agri Prod,MEDIAN,3.333333333
+480,Jharkhand,Irrigation Programmes,MEDIAN,3.333333333
+481,Jharkhand,Seeds & Fertilizers Subsidy,MEDIAN,3.333333333
+482,Jharkhand,Accessibility of MP,MEDIAN,4.444444444
+483,Jharkhand,Anti-Terrorism,MEDIAN,3.333333333
+484,Jharkhand,Better Employment,MEDIAN,3.333333333
+485,Jharkhand,Better Electric Supply,MEDIAN,3.333333333
+486,Jharkhand,Better Hospitals / Primary Healthcare Centres,MEDIAN,3.333333333
+487,Jharkhand,Better Law and Order / Policing,MEDIAN,3.333333333
+488,Jharkhand,Better Public Transport,MEDIAN,3.333333333
+489,Jharkhand,Better Roads,MEDIAN,3.333333333
+490,Jharkhand,Better Schools,MEDIAN,3.333333333
+491,Jharkhand,Drinking Water,MEDIAN,3.333333333
+492,Jharkhand,Empowerment of Women,MEDIAN,3.333333333
+493,Jharkhand,Environmental issues,MEDIAN,3.333333333
+494,Jharkhand,Eradication of Corruption,MEDIAN,3.333333333
+495,Jharkhand,Reservation for Jobs and Education,MEDIAN,3.333333333
+496,Jharkhand,Security for Women,MEDIAN,3.333333333
+497,Jharkhand,Strong Defence/Military,MEDIAN,3.333333333
+498,Jharkhand,Subsidized Food Distribution,MEDIAN,3.333333333
+499,Jharkhand,Jobs Training,MEDIAN,3.333333333
+500,Jharkhand,Trustworthiness of MP,MEDIAN,4.444444444
+501,Jharkhand,Other,MEDIAN,
+502,Jharkhand,Better Garbage Clearance,MEDIAN,4.444444444
+503,Jharkhand,Encroachment of Public Lands / Lakes etc,MEDIAN,3.333333333
+504,Jharkhand,Facility for Pedestrians and Cyclists on Roads,MEDIAN,4.444444444
+505,Jharkhand,Lower Food Prices for Consumers,MEDIAN,3.333333333
+506,Jharkhand,Traffic Congestion,MEDIAN,4.444444444
+507,KARNATAKA,The Candidate,Important,0.39916588187811114
+508,KARNATAKA,The Candidate,Not Important,0.20772231938651958
+509,KARNATAKA,The Candidate,Very Important,0.3068074801560608
+510,KARNATAKA,Candidate's Party,Very Important,0.2065115027579712
+511,KARNATAKA,Candidate's Party,Not Important,0.2276335261670927
+512,KARNATAKA,Candidate's Party,Important,0.4685187676577425
+513,KARNATAKA,Candidate's Caste/Religion,Not Important,0.5034979147046953
+514,KARNATAKA,Candidate's Caste/Religion,Important,0.2634198842997444
+515,KARNATAKA,Candidate's Caste/Religion,Very Important,0.1171128750168169
+516,KARNATAKA,Agri Loan,MEDIAN,4.444444444
+517,KARNATAKA,Electricity for Agriculture,MEDIAN,4.444444444
+518,KARNATAKA,Support Price for Agri Prod,MEDIAN,4.444444444
+519,KARNATAKA,Irrigation Programmes,MEDIAN,4.444444444
+520,KARNATAKA,Seeds & Fertilizers Subsidy,MEDIAN,4.444444444
+521,KARNATAKA,Accessibility of MP,MEDIAN,4.444444444
+522,KARNATAKA,Anti-Terrorism,MEDIAN,4.444444444
+523,KARNATAKA,Better Employment,MEDIAN,4.444444444
+524,KARNATAKA,Better Electric Supply,MEDIAN,4.444444444
+525,KARNATAKA,Better Hospitals / Primary Healthcare Centres,MEDIAN,4.444444444
+526,KARNATAKA,Better Law and Order / Policing,MEDIAN,4.444444444
+527,KARNATAKA,Better Public Transport,MEDIAN,4.444444444
+528,KARNATAKA,Better Roads,MEDIAN,4.444444444
+529,KARNATAKA,Better Schools,MEDIAN,4.444444444
+530,KARNATAKA,Drinking Water,MEDIAN,4.444444444
+531,KARNATAKA,Empowerment of Women,MEDIAN,4.444444444
+532,KARNATAKA,Environmental issues,MEDIAN,4.444444444
+533,KARNATAKA,Eradication of Corruption,MEDIAN,4.444444444
+534,KARNATAKA,Reservation for Jobs and Education,MEDIAN,4.444444444
+535,KARNATAKA,Security for Women,MEDIAN,4.444444444
+536,KARNATAKA,Strong Defence/Military,MEDIAN,4.444444444
+537,KARNATAKA,Subsidized Food Distribution,MEDIAN,4.444444444
+538,KARNATAKA,Jobs Training,MEDIAN,4.444444444
+539,KARNATAKA,Trustworthiness of MP,MEDIAN,4.444444444
+540,KARNATAKA,Other,MEDIAN,4.444444444
+541,KARNATAKA,Better Garbage Clearance,MEDIAN,4.444444444
+542,KARNATAKA,Encroachment of Public Lands / Lakes etc,MEDIAN,4.444444444
+543,KARNATAKA,Facility for Pedestrians and Cyclists on Roads,MEDIAN,4.444444444
+544,KARNATAKA,Lower Food Prices for Consumers,MEDIAN,4.444444444
+545,KARNATAKA,Traffic Congestion,MEDIAN,4.444444444
+546,KERALA,The Candidate,Important,0.35512763098969996
+547,KERALA,The Candidate,Not Important,0.27257799671592775
+548,KERALA,The Candidate,Very Important,0.29631288251977905
+549,KERALA,Candidate's Party,Very Important,0.35244066278549036
+550,KERALA,Candidate's Party,Not Important,0.2136139722346619
+551,KERALA,Candidate's Party,Important,0.3585609792506344
+552,KERALA,Candidate's Caste/Religion,Not Important,0.6503955814300642
+553,KERALA,Candidate's Caste/Religion,Important,0.16659202866099418
+554,KERALA,Candidate's Caste/Religion,Very Important,0.09284967905657561
+555,KERALA,Agri Loan,MEDIAN,4.444444444
+556,KERALA,Electricity for Agriculture,MEDIAN,4.444444444
+557,KERALA,Support Price for Agri Prod,MEDIAN,6.666666667
+558,KERALA,Irrigation Programmes,MEDIAN,4.444444444
+559,KERALA,Seeds & Fertilizers Subsidy,MEDIAN,6.666666667
+560,KERALA,Accessibility of MP,MEDIAN,4.444444444
+561,KERALA,Anti-Terrorism,MEDIAN,4.444444444
+562,KERALA,Better Employment,MEDIAN,4.444444444
+563,KERALA,Better Electric Supply,MEDIAN,6.666666667
+564,KERALA,Better Hospitals / Primary Healthcare Centres,MEDIAN,6.666666667
+565,KERALA,Better Law and Order / Policing,MEDIAN,6.666666667
+566,KERALA,Better Public Transport,MEDIAN,6.666666667
+567,KERALA,Better Roads,MEDIAN,6.666666667
+568,KERALA,Better Schools,MEDIAN,6.666666667
+569,KERALA,Drinking Water,MEDIAN,6.666666667
+570,KERALA,Empowerment of Women,MEDIAN,6.666666667
+571,KERALA,Environmental issues,MEDIAN,6.666666667
+572,KERALA,Eradication of Corruption,MEDIAN,6.666666667
+573,KERALA,Reservation for Jobs and Education,MEDIAN,4.444444444
+574,KERALA,Security for Women,MEDIAN,6.666666667
+575,KERALA,Strong Defence/Military,MEDIAN,6.666666667
+576,KERALA,Subsidized Food Distribution,MEDIAN,6.666666667
+577,KERALA,Jobs Training,MEDIAN,4.444444444
+578,KERALA,Trustworthiness of MP,MEDIAN,6.666666667
+579,KERALA,Other,MEDIAN,4.444444444
+580,KERALA,Better Garbage Clearance,MEDIAN,4.444444444
+581,KERALA,Encroachment of Public Lands / Lakes etc,MEDIAN,4.444444444
+582,KERALA,Facility for Pedestrians and Cyclists on Roads,MEDIAN,6.666666667
+583,KERALA,Lower Food Prices for Consumers,MEDIAN,6.666666667
+584,KERALA,Traffic Congestion,MEDIAN,10.0
+585,MAHARASHTRA,The Candidate,Important,0.33525552630479294
+586,MAHARASHTRA,The Candidate,Not Important,0.209101165851824
+587,MAHARASHTRA,The Candidate,Very Important,0.36546738539969076
+588,MAHARASHTRA,Candidate's Party,Very Important,0.4399314696418871
+589,MAHARASHTRA,Candidate's Party,Not Important,0.14169905143955538
+590,MAHARASHTRA,Candidate's Party,Important,0.3517613137771092
+591,MAHARASHTRA,Candidate's Caste/Religion,Not Important,0.43366344908277965
+592,MAHARASHTRA,Candidate's Caste/Religion,Important,0.2928001337177719
+593,MAHARASHTRA,Candidate's Caste/Religion,Very Important,0.17028122518908528
+594,MAHARASHTRA,Agri Loan,MEDIAN,4.444444444
+595,MAHARASHTRA,Electricity for Agriculture,MEDIAN,4.444444444
+596,MAHARASHTRA,Support Price for Agri Prod,MEDIAN,4.444444444
+597,MAHARASHTRA,Irrigation Programmes,MEDIAN,4.444444444
+598,MAHARASHTRA,Seeds & Fertilizers Subsidy,MEDIAN,4.444444444
+599,MAHARASHTRA,Accessibility of MP,MEDIAN,4.444444444
+600,MAHARASHTRA,Anti-Terrorism,MEDIAN,4.444444444
+601,MAHARASHTRA,Better Employment,MEDIAN,4.444444444
+602,MAHARASHTRA,Better Electric Supply,MEDIAN,4.444444444
+603,MAHARASHTRA,Better Hospitals / Primary Healthcare Centres,MEDIAN,4.444444444
+604,MAHARASHTRA,Better Law and Order / Policing,MEDIAN,4.444444444
+605,MAHARASHTRA,Better Public Transport,MEDIAN,4.444444444
+606,MAHARASHTRA,Better Roads,MEDIAN,4.444444444
+607,MAHARASHTRA,Better Schools,MEDIAN,4.444444444
+608,MAHARASHTRA,Drinking Water,MEDIAN,4.444444444
+609,MAHARASHTRA,Empowerment of Women,MEDIAN,4.444444444
+610,MAHARASHTRA,Environmental issues,MEDIAN,4.444444444
+611,MAHARASHTRA,Eradication of Corruption,MEDIAN,4.444444444
+612,MAHARASHTRA,Reservation for Jobs and Education,MEDIAN,4.444444444
+613,MAHARASHTRA,Security for Women,MEDIAN,4.444444444
+614,MAHARASHTRA,Strong Defence/Military,MEDIAN,4.444444444
+615,MAHARASHTRA,Subsidized Food Distribution,MEDIAN,4.444444444
+616,MAHARASHTRA,Jobs Training,MEDIAN,4.444444444
+617,MAHARASHTRA,Trustworthiness of MP,MEDIAN,4.444444444
+618,MAHARASHTRA,Other,MEDIAN,4.444444444
+619,MAHARASHTRA,Better Garbage Clearance,MEDIAN,4.444444444
+620,MAHARASHTRA,Encroachment of Public Lands / Lakes etc,MEDIAN,3.333333333
+621,MAHARASHTRA,Facility for Pedestrians and Cyclists on Roads,MEDIAN,3.333333333
+622,MAHARASHTRA,Lower Food Prices for Consumers,MEDIAN,3.333333333
+623,MAHARASHTRA,Traffic Congestion,MEDIAN,10.0
+624,MANIPUR,The Candidate,Important,0.25766871165644173
+625,MANIPUR,The Candidate,Not Important,0.026584867075664622
+626,MANIPUR,The Candidate,Very Important,0.6584867075664622
+627,MANIPUR,Candidate's Party,Very Important,0.3128834355828221
+628,MANIPUR,Candidate's Party,Not Important,0.18200408997955012
+629,MANIPUR,Candidate's Party,Important,0.4294478527607362
+630,MANIPUR,Candidate's Caste/Religion,Not Important,0.8282208588957055
+631,MANIPUR,Candidate's Caste/Religion,Important,0.06134969325153374
+632,MANIPUR,Candidate's Caste/Religion,Very Important,0.022494887525562373
+633,MANIPUR,Agri Loan,MEDIAN,3.333333333
+634,MANIPUR,Electricity for Agriculture,MEDIAN,3.333333333
+635,MANIPUR,Support Price for Agri Prod,MEDIAN,3.333333333
+636,MANIPUR,Irrigation Programmes,MEDIAN,3.333333333
+637,MANIPUR,Seeds & Fertilizers Subsidy,MEDIAN,3.333333333
+638,MANIPUR,Accessibility of MP,MEDIAN,3.333333333
+639,MANIPUR,Anti-Terrorism,MEDIAN,6.666666667
+640,MANIPUR,Better Employment,MEDIAN,3.333333333
+641,MANIPUR,Better Electric Supply,MEDIAN,3.333333333
+642,MANIPUR,Better Hospitals / Primary Healthcare Centres,MEDIAN,6.666666667
+643,MANIPUR,Better Law and Order / Policing,MEDIAN,6.666666667
+644,MANIPUR,Better Public Transport,MEDIAN,6.666666667
+645,MANIPUR,Better Roads,MEDIAN,3.333333333
+646,MANIPUR,Better Schools,MEDIAN,6.666666667
+647,MANIPUR,Drinking Water,MEDIAN,3.333333333
+648,MANIPUR,Empowerment of Women,MEDIAN,3.333333333
+649,MANIPUR,Environmental issues,MEDIAN,3.333333333
+650,MANIPUR,Eradication of Corruption,MEDIAN,3.333333333
+651,MANIPUR,Reservation for Jobs and Education,MEDIAN,6.666666667
+652,MANIPUR,Security for Women,MEDIAN,3.333333333
+653,MANIPUR,Strong Defence/Military,MEDIAN,3.333333333
+654,MANIPUR,Subsidized Food Distribution,MEDIAN,3.333333333
+655,MANIPUR,Jobs Training,MEDIAN,3.333333333
+656,MANIPUR,Trustworthiness of MP,MEDIAN,3.333333333
+657,MANIPUR,Other,MEDIAN,3.333333333
+658,MANIPUR,Better Garbage Clearance,MEDIAN,3.333333333
+659,MANIPUR,Encroachment of Public Lands / Lakes etc,MEDIAN,3.333333333
+660,MANIPUR,Facility for Pedestrians and Cyclists on Roads,MEDIAN,3.333333333
+661,MANIPUR,Lower Food Prices for Consumers,MEDIAN,3.333333333
+662,MANIPUR,Traffic Congestion,MEDIAN,10.0
+663,MEGHALAYA,The Candidate,Important,0.5665694849368319
+664,MEGHALAYA,The Candidate,Not Important,0.15063168124392615
+665,MEGHALAYA,The Candidate,Very Important,0.2594752186588921
+666,MEGHALAYA,Candidate's Party,Very Important,0.2099125364431487
+667,MEGHALAYA,Candidate's Party,Not Important,0.08746355685131195
+668,MEGHALAYA,Candidate's Party,Important,0.652089407191448
+669,MEGHALAYA,Candidate's Caste/Religion,Not Important,0.6647230320699709
+670,MEGHALAYA,Candidate's Caste/Religion,Important,0.2818270165208941
+671,MEGHALAYA,Candidate's Caste/Religion,Very Important,0.024295432458697766
+672,MEGHALAYA,Agri Loan,MEDIAN,1.111111111
+673,MEGHALAYA,Electricity for Agriculture,MEDIAN,1.111111111
+674,MEGHALAYA,Support Price for Agri Prod,MEDIAN,1.111111111
+675,MEGHALAYA,Irrigation Programmes,MEDIAN,1.111111111
+676,MEGHALAYA,Seeds & Fertilizers Subsidy,MEDIAN,1.111111111
+677,MEGHALAYA,Accessibility of MP,MEDIAN,1.111111111
+678,MEGHALAYA,Anti-Terrorism,MEDIAN,2.222222222
+679,MEGHALAYA,Better Employment,MEDIAN,1.111111111
+680,MEGHALAYA,Better Electric Supply,MEDIAN,1.111111111
+681,MEGHALAYA,Better Hospitals / Primary Healthcare Centres,MEDIAN,4.444444444
+682,MEGHALAYA,Better Law and Order / Policing,MEDIAN,4.444444444
+683,MEGHALAYA,Better Public Transport,MEDIAN,4.444444444
+684,MEGHALAYA,Better Roads,MEDIAN,4.444444444
+685,MEGHALAYA,Better Schools,MEDIAN,4.444444444
+686,MEGHALAYA,Drinking Water,MEDIAN,4.444444444
+687,MEGHALAYA,Empowerment of Women,MEDIAN,4.444444444
+688,MEGHALAYA,Environmental issues,MEDIAN,4.444444444
+689,MEGHALAYA,Eradication of Corruption,MEDIAN,1.111111111
+690,MEGHALAYA,Reservation for Jobs and Education,MEDIAN,1.111111111
+691,MEGHALAYA,Security for Women,MEDIAN,2.222222222
+692,MEGHALAYA,Strong Defence/Military,MEDIAN,4.444444444
+693,MEGHALAYA,Subsidized Food Distribution,MEDIAN,4.444444444
+694,MEGHALAYA,Jobs Training,MEDIAN,4.444444444
+695,MEGHALAYA,Trustworthiness of MP,MEDIAN,4.444444444
+696,MEGHALAYA,Other,MEDIAN,4.444444444
+697,MEGHALAYA,Better Garbage Clearance,MEDIAN,4.444444444
+698,MEGHALAYA,Encroachment of Public Lands / Lakes etc,MEDIAN,4.444444444
+699,MEGHALAYA,Facility for Pedestrians and Cyclists on Roads,MEDIAN,4.444444444
+700,MEGHALAYA,Lower Food Prices for Consumers,MEDIAN,4.444444444
+701,MEGHALAYA,Traffic Congestion,MEDIAN,4.444444444
+702,MP,The Candidate,Important,0.2739097169089518
+703,MP,The Candidate,Not Important,0.14272796828267373
+704,MP,The Candidate,Very Important,0.5833623148083745
+705,MP,Candidate's Party,Very Important,0.37789524935661123
+706,MP,Candidate's Party,Not Important,0.32823259372609026
+707,MP,Candidate's Party,Important,0.29387215691729845
+708,MP,Candidate's Caste/Religion,Not Important,0.8569938095569312
+709,MP,Candidate's Caste/Religion,Important,0.10468108784864714
+710,MP,Candidate's Caste/Religion,Very Important,0.038325102594421644
+711,MP,Agri Loan,MEDIAN,3.333333333
+712,MP,Electricity for Agriculture,MEDIAN,3.333333333
+713,MP,Support Price for Agri Prod,MEDIAN,2.222222222
+714,MP,Irrigation Programmes,MEDIAN,3.333333333
+715,MP,Seeds & Fertilizers Subsidy,MEDIAN,3.333333333
+716,MP,Accessibility of MP,MEDIAN,2.222222222
+717,MP,Anti-Terrorism,MEDIAN,2.222222222
+718,MP,Better Employment,MEDIAN,3.333333333
+719,MP,Better Electric Supply,MEDIAN,2.222222222
+720,MP,Better Hospitals / Primary Healthcare Centres,MEDIAN,3.333333333
+721,MP,Better Law and Order / Policing,MEDIAN,2.222222222
+722,MP,Better Public Transport,MEDIAN,3.333333333
+723,MP,Better Roads,MEDIAN,3.333333333
+724,MP,Better Schools,MEDIAN,3.333333333
+725,MP,Drinking Water,MEDIAN,3.333333333
+726,MP,Empowerment of Women,MEDIAN,3.333333333
+727,MP,Environmental issues,MEDIAN,2.222222222
+728,MP,Eradication of Corruption,MEDIAN,3.333333333
+729,MP,Reservation for Jobs and Education,MEDIAN,3.333333333
+730,MP,Security for Women,MEDIAN,3.333333333
+731,MP,Strong Defence/Military,MEDIAN,2.222222222
+732,MP,Subsidized Food Distribution,MEDIAN,3.333333333
+733,MP,Jobs Training,MEDIAN,3.333333333
+734,MP,Trustworthiness of MP,MEDIAN,2.222222222
+735,MP,Other,MEDIAN,3.333333333
+736,MP,Better Garbage Clearance,MEDIAN,3.333333333
+737,MP,Encroachment of Public Lands / Lakes etc,MEDIAN,2.222222222
+738,MP,Facility for Pedestrians and Cyclists on Roads,MEDIAN,2.222222222
+739,MP,Lower Food Prices for Consumers,MEDIAN,3.333333333
+740,MP,Traffic Congestion,MEDIAN,4.444444444
+741,Odissa,The Candidate,Important,0.44936824757370447
+742,Odissa,The Candidate,Not Important,0.2786119758286028
+743,Odissa,The Candidate,Very Important,0.2720197765976927
+744,Odissa,Candidate's Party,Very Important,0.2488555209668559
+745,Odissa,Candidate's Party,Not Important,0.2515107123237502
+746,Odissa,Candidate's Party,Important,0.49963376670939386
+747,Odissa,Candidate's Caste/Religion,Not Important,0.7309100897271562
+748,Odissa,Candidate's Caste/Religion,Important,0.1977659769273027
+749,Odissa,Candidate's Caste/Religion,Very Important,0.07132393334554112
+750,Odissa,Agri Loan,MEDIAN,3.333333333
+751,Odissa,Electricity for Agriculture,MEDIAN,3.333333333
+752,Odissa,Support Price for Agri Prod,MEDIAN,3.333333333
+753,Odissa,Irrigation Programmes,MEDIAN,3.333333333
+754,Odissa,Seeds & Fertilizers Subsidy,MEDIAN,3.333333333
+755,Odissa,Accessibility of MP,MEDIAN,3.333333333
+756,Odissa,Anti-Terrorism,MEDIAN,3.333333333
+757,Odissa,Better Employment,MEDIAN,3.333333333
+758,Odissa,Better Electric Supply,MEDIAN,4.444444444
+759,Odissa,Better Hospitals / Primary Healthcare Centres,MEDIAN,4.444444444
+760,Odissa,Better Law and Order / Policing,MEDIAN,4.444444444
+761,Odissa,Better Public Transport,MEDIAN,4.444444444
+762,Odissa,Better Roads,MEDIAN,4.444444444
+763,Odissa,Better Schools,MEDIAN,4.444444444
+764,Odissa,Drinking Water,MEDIAN,4.444444444
+765,Odissa,Empowerment of Women,MEDIAN,4.444444444
+766,Odissa,Environmental issues,MEDIAN,3.333333333
+767,Odissa,Eradication of Corruption,MEDIAN,3.333333333
+768,Odissa,Reservation for Jobs and Education,MEDIAN,3.333333333
+769,Odissa,Security for Women,MEDIAN,4.444444444
+770,Odissa,Strong Defence/Military,MEDIAN,4.444444444
+771,Odissa,Subsidized Food Distribution,MEDIAN,4.444444444
+772,Odissa,Jobs Training,MEDIAN,3.333333333
+773,Odissa,Trustworthiness of MP,MEDIAN,3.333333333
+774,Odissa,Other,MEDIAN,3.333333333
+775,Odissa,Better Garbage Clearance,MEDIAN,4.444444444
+776,Odissa,Encroachment of Public Lands / Lakes etc,MEDIAN,4.444444444
+777,Odissa,Facility for Pedestrians and Cyclists on Roads,MEDIAN,6.666666667
+778,Odissa,Lower Food Prices for Consumers,MEDIAN,4.444444444
+779,Odissa,Traffic Congestion,MEDIAN,4.444444444
+780,PONDICHERRY,The Candidate,Important,0.08868501529051988
+781,PONDICHERRY,The Candidate,Not Important,0.6146788990825688
+782,PONDICHERRY,The Candidate,Very Important,0.2874617737003058
+783,PONDICHERRY,Candidate's Party,Very Important,0.1834862385321101
+784,PONDICHERRY,Candidate's Party,Not Important,0.39143730886850153
+785,PONDICHERRY,Candidate's Party,Important,0.42201834862385323
+786,PONDICHERRY,Candidate's Caste/Religion,Not Important,0.581039755351682
+787,PONDICHERRY,Candidate's Caste/Religion,Important,0.2324159021406728
+788,PONDICHERRY,Candidate's Caste/Religion,Very Important,0.17737003058103976
+789,PONDICHERRY,Agri Loan,MEDIAN,3.333333333
+790,PONDICHERRY,Electricity for Agriculture,MEDIAN,5.5555555555
+791,PONDICHERRY,Support Price for Agri Prod,MEDIAN,6.666666667
+792,PONDICHERRY,Irrigation Programmes,MEDIAN,4.444444444
+793,PONDICHERRY,Seeds & Fertilizers Subsidy,MEDIAN,4.444444444
+794,PONDICHERRY,Accessibility of MP,MEDIAN,4.444444444
+795,PONDICHERRY,Anti-Terrorism,MEDIAN,4.444444444
+796,PONDICHERRY,Better Employment,MEDIAN,4.444444444
+797,PONDICHERRY,Better Electric Supply,MEDIAN,4.444444444
+798,PONDICHERRY,Better Hospitals / Primary Healthcare Centres,MEDIAN,6.666666667
+799,PONDICHERRY,Better Law and Order / Policing,MEDIAN,4.444444444
+800,PONDICHERRY,Better Public Transport,MEDIAN,6.666666667
+801,PONDICHERRY,Better Roads,MEDIAN,6.666666667
+802,PONDICHERRY,Better Schools,MEDIAN,6.666666667
+803,PONDICHERRY,Drinking Water,MEDIAN,6.666666667
+804,PONDICHERRY,Empowerment of Women,MEDIAN,6.666666667
+805,PONDICHERRY,Environmental issues,MEDIAN,4.444444444
+806,PONDICHERRY,Eradication of Corruption,MEDIAN,4.444444444
+807,PONDICHERRY,Reservation for Jobs and Education,MEDIAN,4.444444444
+808,PONDICHERRY,Security for Women,MEDIAN,4.444444444
+809,PONDICHERRY,Strong Defence/Military,MEDIAN,4.444444444
+810,PONDICHERRY,Subsidized Food Distribution,MEDIAN,4.444444444
+811,PONDICHERRY,Jobs Training,MEDIAN,4.444444444
+812,PONDICHERRY,Trustworthiness of MP,MEDIAN,3.333333333
+813,PONDICHERRY,Other,MEDIAN,2.222222222
+814,PONDICHERRY,Better Garbage Clearance,MEDIAN,4.444444444
+815,PONDICHERRY,Encroachment of Public Lands / Lakes etc,MEDIAN,4.444444444
+816,PONDICHERRY,Facility for Pedestrians and Cyclists on Roads,MEDIAN,4.444444444
+817,PONDICHERRY,Lower Food Prices for Consumers,MEDIAN,4.444444444
+818,PONDICHERRY,Traffic Congestion,MEDIAN,4.444444444
+819,Punjab,The Candidate,Important,0.24882057525490792
+820,Punjab,The Candidate,Not Important,0.07076548470552427
+821,Punjab,The Candidate,Very Important,0.6804139400395678
+822,Punjab,Candidate's Party,Very Important,0.19768680566123878
+823,Punjab,Candidate's Party,Not Important,0.4656825445137726
+824,Punjab,Candidate's Party,Important,0.3366306498249886
+825,Punjab,Candidate's Caste/Religion,Not Important,0.8193577842033176
+826,Punjab,Candidate's Caste/Religion,Important,0.1511185512098615
+827,Punjab,Candidate's Caste/Religion,Very Important,0.029523664586820878
+828,Punjab,Agri Loan,MEDIAN,2.222222222
+829,Punjab,Electricity for Agriculture,MEDIAN,2.222222222
+830,Punjab,Support Price for Agri Prod,MEDIAN,2.222222222
+831,Punjab,Irrigation Programmes,MEDIAN,2.222222222
+832,Punjab,Seeds & Fertilizers Subsidy,MEDIAN,2.222222222
+833,Punjab,Accessibility of MP,MEDIAN,2.222222222
+834,Punjab,Anti-Terrorism,MEDIAN,2.222222222
+835,Punjab,Better Employment,MEDIAN,2.222222222
+836,Punjab,Better Electric Supply,MEDIAN,2.222222222
+837,Punjab,Better Hospitals / Primary Healthcare Centres,MEDIAN,2.222222222
+838,Punjab,Better Law and Order / Policing,MEDIAN,2.222222222
+839,Punjab,Better Public Transport,MEDIAN,2.222222222
+840,Punjab,Better Roads,MEDIAN,2.222222222
+841,Punjab,Better Schools,MEDIAN,2.222222222
+842,Punjab,Drinking Water,MEDIAN,2.222222222
+843,Punjab,Empowerment of Women,MEDIAN,2.222222222
+844,Punjab,Environmental issues,MEDIAN,2.222222222
+845,Punjab,Eradication of Corruption,MEDIAN,2.222222222
+846,Punjab,Reservation for Jobs and Education,MEDIAN,2.222222222
+847,Punjab,Security for Women,MEDIAN,2.222222222
+848,Punjab,Strong Defence/Military,MEDIAN,2.222222222
+849,Punjab,Subsidized Food Distribution,MEDIAN,2.222222222
+850,Punjab,Jobs Training,MEDIAN,2.222222222
+851,Punjab,Trustworthiness of MP,MEDIAN,1.111111111
+852,Punjab,Other,MEDIAN,
+853,Punjab,Better Garbage Clearance,MEDIAN,2.222222222
+854,Punjab,Encroachment of Public Lands / Lakes etc,MEDIAN,2.222222222
+855,Punjab,Facility for Pedestrians and Cyclists on Roads,MEDIAN,2.222222222
+856,Punjab,Lower Food Prices for Consumers,MEDIAN,2.222222222
+857,Punjab,Traffic Congestion,MEDIAN,4.444444444
+858,Rajasthan,The Candidate,Important,0.39869124571063763
+859,Rajasthan,The Candidate,Not Important,0.17245231825073817
+860,Rajasthan,The Candidate,Very Important,0.4288564360386242
+861,Rajasthan,Candidate's Party,Very Important,0.31434043571941583
+862,Rajasthan,Candidate's Party,Not Important,0.2504987630675924
+863,Rajasthan,Candidate's Party,Important,0.4351608012129918
+864,Rajasthan,Candidate's Caste/Religion,Not Important,0.6582076450403
+865,Rajasthan,Candidate's Caste/Religion,Important,0.2601548160561807
+866,Rajasthan,Candidate's Caste/Religion,Very Important,0.08163753890351927
+867,Rajasthan,Agri Loan,MEDIAN,3.333333333
+868,Rajasthan,Electricity for Agriculture,MEDIAN,3.333333333
+869,Rajasthan,Support Price for Agri Prod,MEDIAN,3.333333333
+870,Rajasthan,Irrigation Programmes,MEDIAN,3.333333333
+871,Rajasthan,Seeds & Fertilizers Subsidy,MEDIAN,3.333333333
+872,Rajasthan,Accessibility of MP,MEDIAN,3.333333333
+873,Rajasthan,Anti-Terrorism,MEDIAN,3.333333333
+874,Rajasthan,Better Employment,MEDIAN,3.333333333
+875,Rajasthan,Better Electric Supply,MEDIAN,3.333333333
+876,Rajasthan,Better Hospitals / Primary Healthcare Centres,MEDIAN,3.333333333
+877,Rajasthan,Better Law and Order / Policing,MEDIAN,3.333333333
+878,Rajasthan,Better Public Transport,MEDIAN,3.333333333
+879,Rajasthan,Better Roads,MEDIAN,3.333333333
+880,Rajasthan,Better Schools,MEDIAN,3.333333333
+881,Rajasthan,Drinking Water,MEDIAN,3.333333333
+882,Rajasthan,Empowerment of Women,MEDIAN,3.333333333
+883,Rajasthan,Environmental issues,MEDIAN,3.333333333
+884,Rajasthan,Eradication of Corruption,MEDIAN,3.333333333
+885,Rajasthan,Reservation for Jobs and Education,MEDIAN,3.333333333
+886,Rajasthan,Security for Women,MEDIAN,3.333333333
+887,Rajasthan,Strong Defence/Military,MEDIAN,3.333333333
+888,Rajasthan,Subsidized Food Distribution,MEDIAN,3.333333333
+889,Rajasthan,Jobs Training,MEDIAN,3.333333333
+890,Rajasthan,Trustworthiness of MP,MEDIAN,3.333333333
+891,Rajasthan,Other,MEDIAN,
+892,Rajasthan,Better Garbage Clearance,MEDIAN,3.333333333
+893,Rajasthan,Encroachment of Public Lands / Lakes etc,MEDIAN,3.333333333
+894,Rajasthan,Facility for Pedestrians and Cyclists on Roads,MEDIAN,3.333333333
+895,Rajasthan,Lower Food Prices for Consumers,MEDIAN,3.333333333
+896,Rajasthan,Traffic Congestion,MEDIAN,4.444444444
+897,TAMIL NADU,The Candidate,Important,0.2654211379603181
+898,TAMIL NADU,The Candidate,Not Important,0.33953524280089553
+899,TAMIL NADU,The Candidate,Very Important,0.3697985022774647
+900,TAMIL NADU,Candidate's Party,Very Important,0.31236007102601715
+901,TAMIL NADU,Candidate's Party,Not Important,0.19671118659769937
+902,TAMIL NADU,Candidate's Party,Important,0.4673820736508917
+903,TAMIL NADU,Candidate's Caste/Religion,Not Important,0.5372500579016444
+904,TAMIL NADU,Candidate's Caste/Religion,Important,0.2954527908592604
+905,TAMIL NADU,Candidate's Caste/Religion,Very Important,0.13703389176252606
+906,TAMIL NADU,Agri Loan,MEDIAN,4.444444444
+907,TAMIL NADU,Electricity for Agriculture,MEDIAN,4.444444444
+908,TAMIL NADU,Support Price for Agri Prod,MEDIAN,4.444444444
+909,TAMIL NADU,Irrigation Programmes,MEDIAN,3.333333333
+910,TAMIL NADU,Seeds & Fertilizers Subsidy,MEDIAN,4.444444444
+911,TAMIL NADU,Accessibility of MP,MEDIAN,3.333333333
+912,TAMIL NADU,Anti-Terrorism,MEDIAN,3.333333333
+913,TAMIL NADU,Better Employment,MEDIAN,4.444444444
+914,TAMIL NADU,Better Electric Supply,MEDIAN,4.444444444
+915,TAMIL NADU,Better Hospitals / Primary Healthcare Centres,MEDIAN,4.444444444
+916,TAMIL NADU,Better Law and Order / Policing,MEDIAN,4.444444444
+917,TAMIL NADU,Better Public Transport,MEDIAN,4.444444444
+918,TAMIL NADU,Better Roads,MEDIAN,4.444444444
+919,TAMIL NADU,Better Schools,MEDIAN,4.444444444
+920,TAMIL NADU,Drinking Water,MEDIAN,4.444444444
+921,TAMIL NADU,Empowerment of Women,MEDIAN,4.444444444
+922,TAMIL NADU,Environmental issues,MEDIAN,4.444444444
+923,TAMIL NADU,Eradication of Corruption,MEDIAN,3.333333333
+924,TAMIL NADU,Reservation for Jobs and Education,MEDIAN,4.444444444
+925,TAMIL NADU,Security for Women,MEDIAN,4.444444444
+926,TAMIL NADU,Strong Defence/Military,MEDIAN,3.333333333
+927,TAMIL NADU,Subsidized Food Distribution,MEDIAN,4.444444444
+928,TAMIL NADU,Jobs Training,MEDIAN,4.444444444
+929,TAMIL NADU,Trustworthiness of MP,MEDIAN,3.333333333
+930,TAMIL NADU,Other,MEDIAN,4.444444444
+931,TAMIL NADU,Better Garbage Clearance,MEDIAN,3.333333333
+932,TAMIL NADU,Encroachment of Public Lands / Lakes etc,MEDIAN,4.444444444
+933,TAMIL NADU,Facility for Pedestrians and Cyclists on Roads,MEDIAN,4.444444444
+934,TAMIL NADU,Lower Food Prices for Consumers,MEDIAN,3.333333333
+935,TAMIL NADU,Traffic Congestion,MEDIAN,4.444444444
+936,TRIPURA,The Candidate,Important,0.37162837162837165
+937,TRIPURA,The Candidate,Not Important,0.2937062937062937
+938,TRIPURA,The Candidate,Very Important,0.31868131868131866
+939,TRIPURA,Candidate's Party,Very Important,0.6313686313686314
+940,TRIPURA,Candidate's Party,Not Important,0.03896103896103896
+941,TRIPURA,Candidate's Party,Important,0.3166833166833167
+942,TRIPURA,Candidate's Caste/Religion,Not Important,0.7132867132867133
+943,TRIPURA,Candidate's Caste/Religion,Important,0.12987012987012986
+944,TRIPURA,Candidate's Caste/Religion,Very Important,0.04195804195804196
+945,TRIPURA,Agri Loan,MEDIAN,4.444444444
+946,TRIPURA,Electricity for Agriculture,MEDIAN,3.333333333
+947,TRIPURA,Support Price for Agri Prod,MEDIAN,4.444444444
+948,TRIPURA,Irrigation Programmes,MEDIAN,4.444444444
+949,TRIPURA,Seeds & Fertilizers Subsidy,MEDIAN,4.444444444
+950,TRIPURA,Accessibility of MP,MEDIAN,4.444444444
+951,TRIPURA,Anti-Terrorism,MEDIAN,4.444444444
+952,TRIPURA,Better Employment,MEDIAN,4.444444444
+953,TRIPURA,Better Electric Supply,MEDIAN,6.666666667
+954,TRIPURA,Better Hospitals / Primary Healthcare Centres,MEDIAN,4.444444444
+955,TRIPURA,Better Law and Order / Policing,MEDIAN,4.444444444
+956,TRIPURA,Better Public Transport,MEDIAN,4.444444444
+957,TRIPURA,Better Roads,MEDIAN,6.666666667
+958,TRIPURA,Better Schools,MEDIAN,6.666666667
+959,TRIPURA,Drinking Water,MEDIAN,4.444444444
+960,TRIPURA,Empowerment of Women,MEDIAN,4.444444444
+961,TRIPURA,Environmental issues,MEDIAN,4.444444444
+962,TRIPURA,Eradication of Corruption,MEDIAN,3.333333333
+963,TRIPURA,Reservation for Jobs and Education,MEDIAN,4.444444444
+964,TRIPURA,Security for Women,MEDIAN,4.444444444
+965,TRIPURA,Strong Defence/Military,MEDIAN,4.444444444
+966,TRIPURA,Subsidized Food Distribution,MEDIAN,4.444444444
+967,TRIPURA,Jobs Training,MEDIAN,4.444444444
+968,TRIPURA,Trustworthiness of MP,MEDIAN,4.444444444
+969,TRIPURA,Other,MEDIAN,4.444444444
+970,TRIPURA,Better Garbage Clearance,MEDIAN,4.444444444
+971,TRIPURA,Encroachment of Public Lands / Lakes etc,MEDIAN,4.444444444
+972,TRIPURA,Facility for Pedestrians and Cyclists on Roads,MEDIAN,4.444444444
+973,TRIPURA,Lower Food Prices for Consumers,MEDIAN,4.444444444
+974,TRIPURA,Traffic Congestion,MEDIAN,10.0
+975,UP,The Candidate,Important,0.37227658673837805
+976,UP,The Candidate,Not Important,0.1102562187196534
+977,UP,The Candidate,Very Important,0.5174671945419685
+978,UP,Candidate's Party,Very Important,0.23313662508403676
+979,UP,Candidate's Party,Not Important,0.2521351559971116
+980,UP,Candidate's Party,Important,0.5147282189188517
+981,UP,Candidate's Caste/Religion,Not Important,0.6495605189113817
+982,UP,Candidate's Caste/Religion,Important,0.24638330718856602
+983,UP,Candidate's Caste/Religion,Very Important,0.10405617390005228
+984,UP,Agri Loan,MEDIAN,3.333333333
+985,UP,Electricity for Agriculture,MEDIAN,3.333333333
+986,UP,Support Price for Agri Prod,MEDIAN,3.333333333
+987,UP,Irrigation Programmes,MEDIAN,3.333333333
+988,UP,Seeds & Fertilizers Subsidy,MEDIAN,3.333333333
+989,UP,Accessibility of MP,MEDIAN,3.333333333
+990,UP,Anti-Terrorism,MEDIAN,3.333333333
+991,UP,Better Employment,MEDIAN,3.333333333
+992,UP,Better Electric Supply,MEDIAN,3.333333333
+993,UP,Better Hospitals / Primary Healthcare Centres,MEDIAN,3.333333333
+994,UP,Better Law and Order / Policing,MEDIAN,3.333333333
+995,UP,Better Public Transport,MEDIAN,3.333333333
+996,UP,Better Roads,MEDIAN,3.333333333
+997,UP,Better Schools,MEDIAN,3.333333333
+998,UP,Drinking Water,MEDIAN,3.333333333
+999,UP,Empowerment of Women,MEDIAN,3.333333333
+1000,UP,Environmental issues,MEDIAN,3.333333333
+1001,UP,Eradication of Corruption,MEDIAN,3.333333333
+1002,UP,Reservation for Jobs and Education,MEDIAN,3.333333333
+1003,UP,Security for Women,MEDIAN,3.333333333
+1004,UP,Strong Defence/Military,MEDIAN,3.333333333
+1005,UP,Subsidized Food Distribution,MEDIAN,3.333333333
+1006,UP,Jobs Training,MEDIAN,3.333333333
+1007,UP,Trustworthiness of MP,MEDIAN,3.333333333
+1008,UP,Other,MEDIAN,3.333333333
+1009,UP,Better Garbage Clearance,MEDIAN,3.333333333
+1010,UP,Encroachment of Public Lands / Lakes etc,MEDIAN,3.333333333
+1011,UP,Facility for Pedestrians and Cyclists on Roads,MEDIAN,3.333333333
+1012,UP,Lower Food Prices for Consumers,MEDIAN,3.333333333
+1013,UP,Traffic Congestion,MEDIAN,4.444444444
+1014,Uttrakhand,The Candidate,Important,0.30248883216336947
+1015,Uttrakhand,The Candidate,Not Important,0.2610082961072112
+1016,Uttrakhand,The Candidate,Very Important,0.43650287172941926
+1017,Uttrakhand,Candidate's Party,Very Important,0.16464582003828973
+1018,Uttrakhand,Candidate's Party,Not Important,0.47479259731971923
+1019,Uttrakhand,Candidate's Party,Important,0.36056158264199106
+1020,Uttrakhand,Candidate's Caste/Religion,Not Important,0.7913209955328654
+1021,Uttrakhand,Candidate's Caste/Religion,Important,0.15315890236119975
+1022,Uttrakhand,Candidate's Caste/Religion,Very Important,0.05552010210593491
+1023,Uttrakhand,Agri Loan,MEDIAN,4.444444444
+1024,Uttrakhand,Electricity for Agriculture,MEDIAN,6.666666667
+1025,Uttrakhand,Support Price for Agri Prod,MEDIAN,4.444444444
+1026,Uttrakhand,Irrigation Programmes,MEDIAN,6.666666667
+1027,Uttrakhand,Seeds & Fertilizers Subsidy,MEDIAN,4.444444444
+1028,Uttrakhand,Accessibility of MP,MEDIAN,4.444444444
+1029,Uttrakhand,Anti-Terrorism,MEDIAN,3.333333333
+1030,Uttrakhand,Better Employment,MEDIAN,3.333333333
+1031,Uttrakhand,Better Electric Supply,MEDIAN,6.666666667
+1032,Uttrakhand,Better Hospitals / Primary Healthcare Centres,MEDIAN,3.333333333
+1033,Uttrakhand,Better Law and Order / Policing,MEDIAN,3.333333333
+1034,Uttrakhand,Better Public Transport,MEDIAN,3.333333333
+1035,Uttrakhand,Better Roads,MEDIAN,3.333333333
+1036,Uttrakhand,Better Schools,MEDIAN,4.444444444
+1037,Uttrakhand,Drinking Water,MEDIAN,4.444444444
+1038,Uttrakhand,Empowerment of Women,MEDIAN,3.333333333
+1039,Uttrakhand,Environmental issues,MEDIAN,3.333333333
+1040,Uttrakhand,Eradication of Corruption,MEDIAN,4.444444444
+1041,Uttrakhand,Reservation for Jobs and Education,MEDIAN,3.333333333
+1042,Uttrakhand,Security for Women,MEDIAN,3.333333333
+1043,Uttrakhand,Strong Defence/Military,MEDIAN,3.333333333
+1044,Uttrakhand,Subsidized Food Distribution,MEDIAN,3.333333333
+1045,Uttrakhand,Jobs Training,MEDIAN,4.444444444
+1046,Uttrakhand,Trustworthiness of MP,MEDIAN,3.333333333
+1047,Uttrakhand,Other,MEDIAN,
+1048,Uttrakhand,Better Garbage Clearance,MEDIAN,4.444444444
+1049,Uttrakhand,Encroachment of Public Lands / Lakes etc,MEDIAN,3.333333333
+1050,Uttrakhand,Facility for Pedestrians and Cyclists on Roads,MEDIAN,4.444444444
+1051,Uttrakhand,Lower Food Prices for Consumers,MEDIAN,3.333333333
+1052,Uttrakhand,Traffic Congestion,MEDIAN,4.444444444
+1053,WEST BENGAL,The Candidate,Important,0.12202630842429331
+1054,WEST BENGAL,The Candidate,Not Important,0.484186957738595
+1055,WEST BENGAL,The Candidate,Very Important,0.11740834033025468
+1056,WEST BENGAL,Candidate's Party,Very Important,0.08284354883851106
+1057,WEST BENGAL,Candidate's Party,Not Important,0.05611530926392387
+1058,WEST BENGAL,Candidate's Party,Important,0.5853624405261685
+1059,WEST BENGAL,Candidate's Caste/Religion,Not Important,0.10957178841309824
+1060,WEST BENGAL,Candidate's Caste/Religion,Important,0.21032745591939547
+1061,WEST BENGAL,Candidate's Caste/Religion,Very Important,0.4002239014833473
+1062,WEST BENGAL,Agri Loan,MEDIAN,2.222222222
+1063,WEST BENGAL,Electricity for Agriculture,MEDIAN,4.444444444
+1064,WEST BENGAL,Support Price for Agri Prod,MEDIAN,4.444444444
+1065,WEST BENGAL,Irrigation Programmes,MEDIAN,4.444444444
+1066,WEST BENGAL,Seeds & Fertilizers Subsidy,MEDIAN,4.444444444
+1067,WEST BENGAL,Accessibility of MP,MEDIAN,4.444444444
+1068,WEST BENGAL,Anti-Terrorism,MEDIAN,4.444444444
+1069,WEST BENGAL,Better Employment,MEDIAN,4.444444444
+1070,WEST BENGAL,Better Electric Supply,MEDIAN,4.444444444
+1071,WEST BENGAL,Better Hospitals / Primary Healthcare Centres,MEDIAN,4.444444444
+1072,WEST BENGAL,Better Law and Order / Policing,MEDIAN,4.444444444
+1073,WEST BENGAL,Better Public Transport,MEDIAN,6.666666667
+1074,WEST BENGAL,Better Roads,MEDIAN,4.444444444
+1075,WEST BENGAL,Better Schools,MEDIAN,4.444444444
+1076,WEST BENGAL,Drinking Water,MEDIAN,4.444444444
+1077,WEST BENGAL,Empowerment of Women,MEDIAN,6.666666667
+1078,WEST BENGAL,Environmental issues,MEDIAN,4.444444444
+1079,WEST BENGAL,Eradication of Corruption,MEDIAN,4.444444444
+1080,WEST BENGAL,Reservation for Jobs and Education,MEDIAN,4.444444444
+1081,WEST BENGAL,Security for Women,MEDIAN,6.666666667
+1082,WEST BENGAL,Strong Defence/Military,MEDIAN,4.444444444
+1083,WEST BENGAL,Subsidized Food Distribution,MEDIAN,4.444444444
+1084,WEST BENGAL,Jobs Training,MEDIAN,4.444444444
+1085,WEST BENGAL,Trustworthiness of MP,MEDIAN,4.444444444
+1086,WEST BENGAL,Other,MEDIAN,4.444444444
+1087,WEST BENGAL,Better Garbage Clearance,MEDIAN,3.333333333
+1088,WEST BENGAL,Encroachment of Public Lands / Lakes etc,MEDIAN,4.444444444
+1089,WEST BENGAL,Facility for Pedestrians and Cyclists on Roads,MEDIAN,4.444444444
+1090,WEST BENGAL,Lower Food Prices for Consumers,MEDIAN,6.666666667
+1091,WEST BENGAL,Traffic Congestion,MEDIAN,10.0

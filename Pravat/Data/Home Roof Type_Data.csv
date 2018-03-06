@@ -1,0 +1,157 @@
+,0,1,2,3
+0,Semi-Pucca,The Candidate,Important,0.3098595120961607
+1,Semi-Pucca,The Candidate,Not Important,0.324237967236395
+2,Semi-Pucca,The Candidate,Very Important,0.3113810417406299
+3,Semi-Pucca,Candidate's Party,Very Important,0.2812040371253233
+4,Semi-Pucca,Candidate's Party,Not Important,0.16282903078561647
+5,Semi-Pucca,Candidate's Party,Important,0.497743064360704
+6,Semi-Pucca,Candidate's Caste/Religion,Not Important,0.40543693259623675
+7,Semi-Pucca,Candidate's Caste/Religion,Important,0.2926915859410661
+8,Semi-Pucca,Candidate's Caste/Religion,Very Important,0.23423948876603945
+9,Semi-Pucca,Agri Loan,MEDIAN,3.333333333
+10,Semi-Pucca,Electricity for Agriculture,MEDIAN,4.444444444
+11,Semi-Pucca,Support Price for Agri Prod,MEDIAN,4.444444444
+12,Semi-Pucca,Irrigation Programmes,MEDIAN,4.444444444
+13,Semi-Pucca,Seeds & Fertilizers Subsidy,MEDIAN,4.444444444
+14,Semi-Pucca,Accessibility of MP,MEDIAN,3.333333333
+15,Semi-Pucca,Anti-Terrorism,MEDIAN,4.444444444
+16,Semi-Pucca,Better Employment,MEDIAN,4.444444444
+17,Semi-Pucca,Better Electric Supply,MEDIAN,4.444444444
+18,Semi-Pucca,Better Hospitals / Primary Healthcare Centres,MEDIAN,4.444444444
+19,Semi-Pucca,Better Law and Order / Policing,MEDIAN,4.444444444
+20,Semi-Pucca,Better Public Transport,MEDIAN,4.444444444
+21,Semi-Pucca,Better Roads,MEDIAN,4.444444444
+22,Semi-Pucca,Better Schools,MEDIAN,4.444444444
+23,Semi-Pucca,Drinking Water,MEDIAN,4.444444444
+24,Semi-Pucca,Empowerment of Women,MEDIAN,4.444444444
+25,Semi-Pucca,Environmental issues,MEDIAN,4.444444444
+26,Semi-Pucca,Eradication of Corruption,MEDIAN,4.444444444
+27,Semi-Pucca,Reservation for Jobs and Education,MEDIAN,4.444444444
+28,Semi-Pucca,Security for Women,MEDIAN,4.444444444
+29,Semi-Pucca,Strong Defence/Military,MEDIAN,4.444444444
+30,Semi-Pucca,Subsidized Food Distribution,MEDIAN,4.444444444
+31,Semi-Pucca,Jobs Training,MEDIAN,4.444444444
+32,Semi-Pucca,Trustworthiness of MP,MEDIAN,4.444444444
+33,Semi-Pucca,Other,MEDIAN,4.444444444
+34,Semi-Pucca,Better Garbage Clearance,MEDIAN,3.333333333
+35,Semi-Pucca,Encroachment of Public Lands / Lakes etc,MEDIAN,4.444444444
+36,Semi-Pucca,Facility for Pedestrians and Cyclists on Roads,MEDIAN,4.444444444
+37,Semi-Pucca,Lower Food Prices for Consumers,MEDIAN,4.444444444
+38,Semi-Pucca,Traffic Congestion,MEDIAN,4.444444444
+39,Pucca,The Candidate,Important,0.34803083867096285
+40,Pucca,The Candidate,Not Important,0.20821320949163155
+41,Pucca,The Candidate,Very Important,0.4218662353079301
+42,Pucca,Candidate's Party,Very Important,0.26184171047653837
+43,Pucca,Candidate's Party,Not Important,0.23537315574572445
+44,Pucca,Candidate's Party,Important,0.4798778976479643
+45,Pucca,Candidate's Caste/Religion,Not Important,0.584904183570972
+46,Pucca,Candidate's Caste/Religion,Important,0.23949541463923713
+47,Pucca,Candidate's Caste/Religion,Very Important,0.1480882372125181
+48,Pucca,Agri Loan,MEDIAN,3.333333333
+49,Pucca,Electricity for Agriculture,MEDIAN,4.444444444
+50,Pucca,Support Price for Agri Prod,MEDIAN,3.333333333
+51,Pucca,Irrigation Programmes,MEDIAN,4.444444444
+52,Pucca,Seeds & Fertilizers Subsidy,MEDIAN,3.333333333
+53,Pucca,Accessibility of MP,MEDIAN,3.333333333
+54,Pucca,Anti-Terrorism,MEDIAN,3.333333333
+55,Pucca,Better Employment,MEDIAN,3.333333333
+56,Pucca,Better Electric Supply,MEDIAN,4.444444444
+57,Pucca,Better Hospitals / Primary Healthcare Centres,MEDIAN,3.333333333
+58,Pucca,Better Law and Order / Policing,MEDIAN,4.444444444
+59,Pucca,Better Public Transport,MEDIAN,4.444444444
+60,Pucca,Better Roads,MEDIAN,4.444444444
+61,Pucca,Better Schools,MEDIAN,4.444444444
+62,Pucca,Drinking Water,MEDIAN,4.444444444
+63,Pucca,Empowerment of Women,MEDIAN,3.333333333
+64,Pucca,Environmental issues,MEDIAN,3.333333333
+65,Pucca,Eradication of Corruption,MEDIAN,3.333333333
+66,Pucca,Reservation for Jobs and Education,MEDIAN,3.333333333
+67,Pucca,Security for Women,MEDIAN,3.333333333
+68,Pucca,Strong Defence/Military,MEDIAN,3.333333333
+69,Pucca,Subsidized Food Distribution,MEDIAN,3.333333333
+70,Pucca,Jobs Training,MEDIAN,3.333333333
+71,Pucca,Trustworthiness of MP,MEDIAN,3.333333333
+72,Pucca,Other,MEDIAN,4.444444444
+73,Pucca,Better Garbage Clearance,MEDIAN,3.333333333
+74,Pucca,Encroachment of Public Lands / Lakes etc,MEDIAN,4.444444444
+75,Pucca,Facility for Pedestrians and Cyclists on Roads,MEDIAN,4.444444444
+76,Pucca,Lower Food Prices for Consumers,MEDIAN,4.444444444
+77,Pucca,Traffic Congestion,MEDIAN,4.444444444
+78,Kuchcha,The Candidate,Important,0.3997090409794531
+79,Kuchcha,The Candidate,Not Important,0.16838027363224742
+80,Kuchcha,The Candidate,Very Important,0.41265508279255275
+81,Kuchcha,Candidate's Party,Very Important,0.22403844582114193
+82,Kuchcha,Candidate's Party,Not Important,0.278372591006424
+83,Kuchcha,Candidate's Party,Important,0.4795266194811776
+84,Kuchcha,Candidate's Caste/Religion,Not Important,0.6728182159962077
+85,Kuchcha,Candidate's Caste/Religion,Important,0.21658466417117545
+86,Kuchcha,Candidate's Caste/Religion,Very Important,0.08745116628798405
+87,Kuchcha,Agri Loan,MEDIAN,3.333333333
+88,Kuchcha,Electricity for Agriculture,MEDIAN,3.333333333
+89,Kuchcha,Support Price for Agri Prod,MEDIAN,3.333333333
+90,Kuchcha,Irrigation Programmes,MEDIAN,3.333333333
+91,Kuchcha,Seeds & Fertilizers Subsidy,MEDIAN,3.333333333
+92,Kuchcha,Accessibility of MP,MEDIAN,3.333333333
+93,Kuchcha,Anti-Terrorism,MEDIAN,3.333333333
+94,Kuchcha,Better Employment,MEDIAN,3.333333333
+95,Kuchcha,Better Electric Supply,MEDIAN,3.333333333
+96,Kuchcha,Better Hospitals / Primary Healthcare Centres,MEDIAN,3.333333333
+97,Kuchcha,Better Law and Order / Policing,MEDIAN,3.333333333
+98,Kuchcha,Better Public Transport,MEDIAN,3.333333333
+99,Kuchcha,Better Roads,MEDIAN,3.333333333
+100,Kuchcha,Better Schools,MEDIAN,3.333333333
+101,Kuchcha,Drinking Water,MEDIAN,3.333333333
+102,Kuchcha,Empowerment of Women,MEDIAN,3.333333333
+103,Kuchcha,Environmental issues,MEDIAN,3.333333333
+104,Kuchcha,Eradication of Corruption,MEDIAN,3.333333333
+105,Kuchcha,Reservation for Jobs and Education,MEDIAN,3.333333333
+106,Kuchcha,Security for Women,MEDIAN,3.333333333
+107,Kuchcha,Strong Defence/Military,MEDIAN,3.333333333
+108,Kuchcha,Subsidized Food Distribution,MEDIAN,3.333333333
+109,Kuchcha,Jobs Training,MEDIAN,3.333333333
+110,Kuchcha,Trustworthiness of MP,MEDIAN,3.333333333
+111,Kuchcha,Other,MEDIAN,4.444444444
+112,Kuchcha,Better Garbage Clearance,MEDIAN,3.333333333
+113,Kuchcha,Encroachment of Public Lands / Lakes etc,MEDIAN,4.444444444
+114,Kuchcha,Facility for Pedestrians and Cyclists on Roads,MEDIAN,3.333333333
+115,Kuchcha,Lower Food Prices for Consumers,MEDIAN,3.333333333
+116,Kuchcha,Traffic Congestion,MEDIAN,4.444444444
+117,Semi-pucca,The Candidate,Important,0.4040339937089565
+118,Semi-pucca,The Candidate,Not Important,0.1328017217592848
+119,Semi-pucca,The Candidate,Very Important,0.46316428453175873
+120,Semi-pucca,Candidate's Party,Very Important,0.21486121074995862
+121,Semi-pucca,Candidate's Party,Not Important,0.28091716792671484
+122,Semi-pucca,Candidate's Party,Important,0.5042216213233265
+123,Semi-pucca,Candidate's Caste/Religion,Not Important,0.7100325589095524
+124,Semi-pucca,Candidate's Caste/Religion,Important,0.21786877103912589
+125,Semi-pucca,Candidate's Caste/Religion,Very Important,0.07209867005132167
+126,Semi-pucca,Agri Loan,MEDIAN,3.333333333
+127,Semi-pucca,Electricity for Agriculture,MEDIAN,3.333333333
+128,Semi-pucca,Support Price for Agri Prod,MEDIAN,3.333333333
+129,Semi-pucca,Irrigation Programmes,MEDIAN,3.333333333
+130,Semi-pucca,Seeds & Fertilizers Subsidy,MEDIAN,3.333333333
+131,Semi-pucca,Accessibility of MP,MEDIAN,3.333333333
+132,Semi-pucca,Anti-Terrorism,MEDIAN,3.333333333
+133,Semi-pucca,Better Employment,MEDIAN,3.333333333
+134,Semi-pucca,Better Electric Supply,MEDIAN,3.333333333
+135,Semi-pucca,Better Hospitals / Primary Healthcare Centres,MEDIAN,3.333333333
+136,Semi-pucca,Better Law and Order / Policing,MEDIAN,3.333333333
+137,Semi-pucca,Better Public Transport,MEDIAN,3.333333333
+138,Semi-pucca,Better Roads,MEDIAN,3.333333333
+139,Semi-pucca,Better Schools,MEDIAN,3.333333333
+140,Semi-pucca,Drinking Water,MEDIAN,3.333333333
+141,Semi-pucca,Empowerment of Women,MEDIAN,3.333333333
+142,Semi-pucca,Environmental issues,MEDIAN,3.333333333
+143,Semi-pucca,Eradication of Corruption,MEDIAN,3.333333333
+144,Semi-pucca,Reservation for Jobs and Education,MEDIAN,3.333333333
+145,Semi-pucca,Security for Women,MEDIAN,3.333333333
+146,Semi-pucca,Strong Defence/Military,MEDIAN,3.333333333
+147,Semi-pucca,Subsidized Food Distribution,MEDIAN,3.333333333
+148,Semi-pucca,Jobs Training,MEDIAN,3.333333333
+149,Semi-pucca,Trustworthiness of MP,MEDIAN,3.333333333
+150,Semi-pucca,Other,MEDIAN,3.333333333
+151,Semi-pucca,Better Garbage Clearance,MEDIAN,3.333333333
+152,Semi-pucca,Encroachment of Public Lands / Lakes etc,MEDIAN,3.333333333
+153,Semi-pucca,Facility for Pedestrians and Cyclists on Roads,MEDIAN,3.333333333
+154,Semi-pucca,Lower Food Prices for Consumers,MEDIAN,3.333333333
+155,Semi-pucca,Traffic Congestion,MEDIAN,4.444444444

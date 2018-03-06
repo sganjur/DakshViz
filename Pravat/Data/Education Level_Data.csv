@@ -1,0 +1,313 @@
+,0,1,2,3
+0,No Education,The Candidate,Important,0.39257308781358774
+1,No Education,The Candidate,Not Important,0.18069507818276914
+2,No Education,The Candidate,Very Important,0.4060454127364871
+3,No Education,Candidate's Party,Very Important,0.22195970927191733
+4,No Education,Candidate's Party,Not Important,0.250112720255379
+5,No Education,Candidate's Party,Important,0.5067000919797284
+6,No Education,Candidate's Caste/Religion,Not Important,0.6196187350082061
+7,No Education,Candidate's Caste/Religion,Important,0.247245116958537
+8,No Education,Candidate's Caste/Religion,Very Important,0.10913124244774289
+9,No Education,Agri Loan,MEDIAN,3.333333333
+10,No Education,Electricity for Agriculture,MEDIAN,3.333333333
+11,No Education,Support Price for Agri Prod,MEDIAN,3.333333333
+12,No Education,Irrigation Programmes,MEDIAN,3.333333333
+13,No Education,Seeds & Fertilizers Subsidy,MEDIAN,3.333333333
+14,No Education,Accessibility of MP,MEDIAN,3.333333333
+15,No Education,Anti-Terrorism,MEDIAN,3.333333333
+16,No Education,Better Employment,MEDIAN,3.333333333
+17,No Education,Better Electric Supply,MEDIAN,3.333333333
+18,No Education,Better Hospitals / Primary Healthcare Centres,MEDIAN,3.333333333
+19,No Education,Better Law and Order / Policing,MEDIAN,3.333333333
+20,No Education,Better Public Transport,MEDIAN,3.333333333
+21,No Education,Better Roads,MEDIAN,3.333333333
+22,No Education,Better Schools,MEDIAN,3.333333333
+23,No Education,Drinking Water,MEDIAN,3.333333333
+24,No Education,Empowerment of Women,MEDIAN,3.333333333
+25,No Education,Environmental issues,MEDIAN,3.333333333
+26,No Education,Eradication of Corruption,MEDIAN,3.333333333
+27,No Education,Reservation for Jobs and Education,MEDIAN,3.333333333
+28,No Education,Security for Women,MEDIAN,3.333333333
+29,No Education,Strong Defence/Military,MEDIAN,3.333333333
+30,No Education,Subsidized Food Distribution,MEDIAN,3.333333333
+31,No Education,Jobs Training,MEDIAN,3.333333333
+32,No Education,Trustworthiness of MP,MEDIAN,3.333333333
+33,No Education,Other,MEDIAN,4.444444444
+34,No Education,Better Garbage Clearance,MEDIAN,3.333333333
+35,No Education,Encroachment of Public Lands / Lakes etc,MEDIAN,3.333333333
+36,No Education,Facility for Pedestrians and Cyclists on Roads,MEDIAN,3.333333333
+37,No Education,Lower Food Prices for Consumers,MEDIAN,3.333333333
+38,No Education,Traffic Congestion,MEDIAN,4.444444444
+39,High School,The Candidate,Important,0.33556386538083055
+40,High School,The Candidate,Not Important,0.27235452338778454
+41,High School,The Candidate,Very Important,0.34916027028800106
+42,High School,Candidate's Party,Very Important,0.25841369809092696
+43,High School,Candidate's Party,Not Important,0.21539395132191827
+44,High School,Candidate's Party,Important,0.4882405038378272
+45,High School,Candidate's Caste/Religion,Not Important,0.5295217476874631
+46,High School,Candidate's Caste/Religion,Important,0.23971659122220035
+47,High School,Candidate's Caste/Religion,Very Important,0.17995145312602506
+48,High School,Agri Loan,MEDIAN,3.333333333
+49,High School,Electricity for Agriculture,MEDIAN,4.444444444
+50,High School,Support Price for Agri Prod,MEDIAN,4.444444444
+51,High School,Irrigation Programmes,MEDIAN,4.444444444
+52,High School,Seeds & Fertilizers Subsidy,MEDIAN,3.333333333
+53,High School,Accessibility of MP,MEDIAN,3.333333333
+54,High School,Anti-Terrorism,MEDIAN,4.444444444
+55,High School,Better Employment,MEDIAN,4.444444444
+56,High School,Better Electric Supply,MEDIAN,4.444444444
+57,High School,Better Hospitals / Primary Healthcare Centres,MEDIAN,3.333333333
+58,High School,Better Law and Order / Policing,MEDIAN,4.444444444
+59,High School,Better Public Transport,MEDIAN,4.444444444
+60,High School,Better Roads,MEDIAN,4.444444444
+61,High School,Better Schools,MEDIAN,4.444444444
+62,High School,Drinking Water,MEDIAN,4.444444444
+63,High School,Empowerment of Women,MEDIAN,4.444444444
+64,High School,Environmental issues,MEDIAN,4.444444444
+65,High School,Eradication of Corruption,MEDIAN,3.333333333
+66,High School,Reservation for Jobs and Education,MEDIAN,4.444444444
+67,High School,Security for Women,MEDIAN,4.444444444
+68,High School,Strong Defence/Military,MEDIAN,4.444444444
+69,High School,Subsidized Food Distribution,MEDIAN,3.333333333
+70,High School,Jobs Training,MEDIAN,3.333333333
+71,High School,Trustworthiness of MP,MEDIAN,3.333333333
+72,High School,Other,MEDIAN,4.444444444
+73,High School,Better Garbage Clearance,MEDIAN,3.333333333
+74,High School,Encroachment of Public Lands / Lakes etc,MEDIAN,4.444444444
+75,High School,Facility for Pedestrians and Cyclists on Roads,MEDIAN,4.444444444
+76,High School,Lower Food Prices for Consumers,MEDIAN,4.444444444
+77,High School,Traffic Congestion,MEDIAN,4.444444444
+78,Primary,The Candidate,Important,0.3585207883557351
+79,Primary,The Candidate,Not Important,0.22132460477749147
+80,Primary,The Candidate,Very Important,0.395326972630406
+81,Primary,Candidate's Party,Very Important,0.24562991851800264
+82,Primary,Candidate's Party,Not Important,0.25172365763632565
+83,Primary,Candidate's Party,Important,0.4758687930914409
+84,Primary,Candidate's Caste/Religion,Not Important,0.5961069712375514
+85,Primary,Candidate's Caste/Religion,Important,0.2347656522041925
+86,Primary,Candidate's Caste/Religion,Very Important,0.13691761264712027
+87,Primary,Agri Loan,MEDIAN,3.333333333
+88,Primary,Electricity for Agriculture,MEDIAN,4.444444444
+89,Primary,Support Price for Agri Prod,MEDIAN,3.333333333
+90,Primary,Irrigation Programmes,MEDIAN,3.333333333
+91,Primary,Seeds & Fertilizers Subsidy,MEDIAN,3.333333333
+92,Primary,Accessibility of MP,MEDIAN,3.333333333
+93,Primary,Anti-Terrorism,MEDIAN,3.333333333
+94,Primary,Better Employment,MEDIAN,3.333333333
+95,Primary,Better Electric Supply,MEDIAN,4.444444444
+96,Primary,Better Hospitals / Primary Healthcare Centres,MEDIAN,3.333333333
+97,Primary,Better Law and Order / Policing,MEDIAN,3.333333333
+98,Primary,Better Public Transport,MEDIAN,3.333333333
+99,Primary,Better Roads,MEDIAN,4.444444444
+100,Primary,Better Schools,MEDIAN,3.333333333
+101,Primary,Drinking Water,MEDIAN,3.333333333
+102,Primary,Empowerment of Women,MEDIAN,3.333333333
+103,Primary,Environmental issues,MEDIAN,3.333333333
+104,Primary,Eradication of Corruption,MEDIAN,3.333333333
+105,Primary,Reservation for Jobs and Education,MEDIAN,3.333333333
+106,Primary,Security for Women,MEDIAN,3.333333333
+107,Primary,Strong Defence/Military,MEDIAN,3.333333333
+108,Primary,Subsidized Food Distribution,MEDIAN,3.333333333
+109,Primary,Jobs Training,MEDIAN,3.333333333
+110,Primary,Trustworthiness of MP,MEDIAN,3.333333333
+111,Primary,Other,MEDIAN,4.444444444
+112,Primary,Better Garbage Clearance,MEDIAN,3.333333333
+113,Primary,Encroachment of Public Lands / Lakes etc,MEDIAN,4.444444444
+114,Primary,Facility for Pedestrians and Cyclists on Roads,MEDIAN,4.444444444
+115,Primary,Lower Food Prices for Consumers,MEDIAN,4.444444444
+116,Primary,Traffic Congestion,MEDIAN,4.444444444
+117,Degree,The Candidate,Important,0.33614242872869454
+118,Degree,The Candidate,Not Important,0.21068215465208973
+119,Degree,The Candidate,Very Important,0.4119120829062749
+120,Degree,Candidate's Party,Very Important,0.2743802907793342
+121,Degree,Candidate's Party,Not Important,0.22199445773070645
+122,Degree,Candidate's Party,Important,0.4652469346695517
+123,Degree,Candidate's Caste/Religion,Not Important,0.5717647952017614
+124,Degree,Candidate's Caste/Religion,Important,0.2427969479558137
+125,Degree,Candidate's Caste/Religion,Very Important,0.13700034164673727
+126,Degree,Agri Loan,MEDIAN,3.333333333
+127,Degree,Electricity for Agriculture,MEDIAN,4.444444444
+128,Degree,Support Price for Agri Prod,MEDIAN,4.444444444
+129,Degree,Irrigation Programmes,MEDIAN,4.444444444
+130,Degree,Seeds & Fertilizers Subsidy,MEDIAN,4.444444444
+131,Degree,Accessibility of MP,MEDIAN,3.333333333
+132,Degree,Anti-Terrorism,MEDIAN,4.444444444
+133,Degree,Better Employment,MEDIAN,4.444444444
+134,Degree,Better Electric Supply,MEDIAN,4.444444444
+135,Degree,Better Hospitals / Primary Healthcare Centres,MEDIAN,4.444444444
+136,Degree,Better Law and Order / Policing,MEDIAN,4.444444444
+137,Degree,Better Public Transport,MEDIAN,4.444444444
+138,Degree,Better Roads,MEDIAN,4.444444444
+139,Degree,Better Schools,MEDIAN,4.444444444
+140,Degree,Drinking Water,MEDIAN,4.444444444
+141,Degree,Empowerment of Women,MEDIAN,4.444444444
+142,Degree,Environmental issues,MEDIAN,4.444444444
+143,Degree,Eradication of Corruption,MEDIAN,3.333333333
+144,Degree,Reservation for Jobs and Education,MEDIAN,4.444444444
+145,Degree,Security for Women,MEDIAN,4.444444444
+146,Degree,Strong Defence/Military,MEDIAN,4.444444444
+147,Degree,Subsidized Food Distribution,MEDIAN,4.444444444
+148,Degree,Jobs Training,MEDIAN,4.444444444
+149,Degree,Trustworthiness of MP,MEDIAN,4.444444444
+150,Degree,Other,MEDIAN,4.444444444
+151,Degree,Better Garbage Clearance,MEDIAN,4.444444444
+152,Degree,Encroachment of Public Lands / Lakes etc,MEDIAN,4.444444444
+153,Degree,Facility for Pedestrians and Cyclists on Roads,MEDIAN,4.444444444
+154,Degree,Lower Food Prices for Consumers,MEDIAN,4.444444444
+155,Degree,Traffic Congestion,MEDIAN,4.444444444
+156,PUC,The Candidate,Important,0.3476103524928549
+157,PUC,The Candidate,Not Important,0.18509844395046046
+158,PUC,The Candidate,Very Important,0.42723880597014924
+159,PUC,Candidate's Party,Very Important,0.2577405525563671
+160,PUC,Candidate's Party,Not Important,0.251468720228644
+161,PUC,Candidate's Party,Important,0.46090028580501746
+162,PUC,Candidate's Caste/Religion,Not Important,0.6142823118450301
+163,PUC,Candidate's Caste/Religion,Important,0.2244363289933312
+164,PUC,Candidate's Caste/Religion,Very Important,0.11459987297554779
+165,PUC,Agri Loan,MEDIAN,3.333333333
+166,PUC,Electricity for Agriculture,MEDIAN,4.444444444
+167,PUC,Support Price for Agri Prod,MEDIAN,3.333333333
+168,PUC,Irrigation Programmes,MEDIAN,3.333333333
+169,PUC,Seeds & Fertilizers Subsidy,MEDIAN,3.333333333
+170,PUC,Accessibility of MP,MEDIAN,3.333333333
+171,PUC,Anti-Terrorism,MEDIAN,3.333333333
+172,PUC,Better Employment,MEDIAN,3.333333333
+173,PUC,Better Electric Supply,MEDIAN,4.444444444
+174,PUC,Better Hospitals / Primary Healthcare Centres,MEDIAN,4.444444444
+175,PUC,Better Law and Order / Policing,MEDIAN,4.444444444
+176,PUC,Better Public Transport,MEDIAN,4.444444444
+177,PUC,Better Roads,MEDIAN,4.444444444
+178,PUC,Better Schools,MEDIAN,4.444444444
+179,PUC,Drinking Water,MEDIAN,4.444444444
+180,PUC,Empowerment of Women,MEDIAN,3.333333333
+181,PUC,Environmental issues,MEDIAN,3.333333333
+182,PUC,Eradication of Corruption,MEDIAN,3.333333333
+183,PUC,Reservation for Jobs and Education,MEDIAN,3.333333333
+184,PUC,Security for Women,MEDIAN,3.333333333
+185,PUC,Strong Defence/Military,MEDIAN,3.333333333
+186,PUC,Subsidized Food Distribution,MEDIAN,3.333333333
+187,PUC,Jobs Training,MEDIAN,3.333333333
+188,PUC,Trustworthiness of MP,MEDIAN,3.333333333
+189,PUC,Other,MEDIAN,4.444444444
+190,PUC,Better Garbage Clearance,MEDIAN,4.444444444
+191,PUC,Encroachment of Public Lands / Lakes etc,MEDIAN,4.444444444
+192,PUC,Facility for Pedestrians and Cyclists on Roads,MEDIAN,4.444444444
+193,PUC,Lower Food Prices for Consumers,MEDIAN,4.444444444
+194,PUC,Traffic Congestion,MEDIAN,4.444444444
+195,Medical,The Candidate,Important,0.251864125932063
+196,Medical,The Candidate,Not Important,0.347970173985087
+197,Medical,The Candidate,Very Important,0.35791217895608946
+198,Medical,Candidate's Party,Very Important,0.2551781275890638
+199,Medical,Candidate's Party,Not Important,0.20961060480530241
+200,Medical,Candidate's Party,Important,0.5045567522783762
+201,Medical,Candidate's Caste/Religion,Not Important,0.46727423363711684
+202,Medical,Candidate's Caste/Religion,Important,0.2767191383595692
+203,Medical,Candidate's Caste/Religion,Very Important,0.2212096106048053
+204,Medical,Agri Loan,MEDIAN,3.333333333
+205,Medical,Electricity for Agriculture,MEDIAN,4.444444444
+206,Medical,Support Price for Agri Prod,MEDIAN,4.444444444
+207,Medical,Irrigation Programmes,MEDIAN,4.444444444
+208,Medical,Seeds & Fertilizers Subsidy,MEDIAN,4.444444444
+209,Medical,Accessibility of MP,MEDIAN,3.333333333
+210,Medical,Anti-Terrorism,MEDIAN,4.444444444
+211,Medical,Better Employment,MEDIAN,4.444444444
+212,Medical,Better Electric Supply,MEDIAN,4.444444444
+213,Medical,Better Hospitals / Primary Healthcare Centres,MEDIAN,4.444444444
+214,Medical,Better Law and Order / Policing,MEDIAN,4.444444444
+215,Medical,Better Public Transport,MEDIAN,4.444444444
+216,Medical,Better Roads,MEDIAN,4.444444444
+217,Medical,Better Schools,MEDIAN,4.444444444
+218,Medical,Drinking Water,MEDIAN,4.444444444
+219,Medical,Empowerment of Women,MEDIAN,4.444444444
+220,Medical,Environmental issues,MEDIAN,4.444444444
+221,Medical,Eradication of Corruption,MEDIAN,3.333333333
+222,Medical,Reservation for Jobs and Education,MEDIAN,4.444444444
+223,Medical,Security for Women,MEDIAN,4.444444444
+224,Medical,Strong Defence/Military,MEDIAN,4.444444444
+225,Medical,Subsidized Food Distribution,MEDIAN,4.444444444
+226,Medical,Jobs Training,MEDIAN,4.444444444
+227,Medical,Trustworthiness of MP,MEDIAN,4.444444444
+228,Medical,Other,MEDIAN,4.444444444
+229,Medical,Better Garbage Clearance,MEDIAN,3.333333333
+230,Medical,Encroachment of Public Lands / Lakes etc,MEDIAN,4.444444444
+231,Medical,Facility for Pedestrians and Cyclists on Roads,MEDIAN,4.444444444
+232,Medical,Lower Food Prices for Consumers,MEDIAN,4.444444444
+233,Medical,Traffic Congestion,MEDIAN,4.444444444
+234,Above Degree,The Candidate,Important,0.31541501976284586
+235,Above Degree,The Candidate,Not Important,0.20685111989459815
+236,Above Degree,The Candidate,Very Important,0.4503293807641634
+237,Above Degree,Candidate's Party,Very Important,0.2795783926218709
+238,Above Degree,Candidate's Party,Not Important,0.230566534914361
+239,Above Degree,Candidate's Party,Important,0.45428194993412385
+240,Above Degree,Candidate's Caste/Religion,Not Important,0.5836627140974967
+241,Above Degree,Candidate's Caste/Religion,Important,0.23662714097496707
+242,Above Degree,Candidate's Caste/Religion,Very Important,0.1383399209486166
+243,Above Degree,Agri Loan,MEDIAN,3.333333333
+244,Above Degree,Electricity for Agriculture,MEDIAN,4.444444444
+245,Above Degree,Support Price for Agri Prod,MEDIAN,4.444444444
+246,Above Degree,Irrigation Programmes,MEDIAN,4.444444444
+247,Above Degree,Seeds & Fertilizers Subsidy,MEDIAN,4.444444444
+248,Above Degree,Accessibility of MP,MEDIAN,4.444444444
+249,Above Degree,Anti-Terrorism,MEDIAN,4.444444444
+250,Above Degree,Better Employment,MEDIAN,4.444444444
+251,Above Degree,Better Electric Supply,MEDIAN,4.444444444
+252,Above Degree,Better Hospitals / Primary Healthcare Centres,MEDIAN,4.444444444
+253,Above Degree,Better Law and Order / Policing,MEDIAN,4.444444444
+254,Above Degree,Better Public Transport,MEDIAN,4.444444444
+255,Above Degree,Better Roads,MEDIAN,4.444444444
+256,Above Degree,Better Schools,MEDIAN,4.444444444
+257,Above Degree,Drinking Water,MEDIAN,4.444444444
+258,Above Degree,Empowerment of Women,MEDIAN,4.444444444
+259,Above Degree,Environmental issues,MEDIAN,4.444444444
+260,Above Degree,Eradication of Corruption,MEDIAN,3.8888888885000004
+261,Above Degree,Reservation for Jobs and Education,MEDIAN,4.444444444
+262,Above Degree,Security for Women,MEDIAN,4.444444444
+263,Above Degree,Strong Defence/Military,MEDIAN,4.444444444
+264,Above Degree,Subsidized Food Distribution,MEDIAN,4.444444444
+265,Above Degree,Jobs Training,MEDIAN,4.444444444
+266,Above Degree,Trustworthiness of MP,MEDIAN,4.444444444
+267,Above Degree,Other,MEDIAN,4.444444444
+268,Above Degree,Better Garbage Clearance,MEDIAN,4.444444444
+269,Above Degree,Encroachment of Public Lands / Lakes etc,MEDIAN,4.444444444
+270,Above Degree,Facility for Pedestrians and Cyclists on Roads,MEDIAN,4.444444444
+271,Above Degree,Lower Food Prices for Consumers,MEDIAN,4.444444444
+272,Above Degree,Traffic Congestion,MEDIAN,4.444444444
+273,Engg/Diploma,The Candidate,Important,0.3304673721340388
+274,Engg/Diploma,The Candidate,Not Important,0.2464726631393298
+275,Engg/Diploma,The Candidate,Very Important,0.39969135802469136
+276,Engg/Diploma,Candidate's Party,Very Important,0.279320987654321
+277,Engg/Diploma,Candidate's Party,Not Important,0.234347442680776
+278,Engg/Diploma,Candidate's Party,Important,0.4634038800705467
+279,Engg/Diploma,Candidate's Caste/Religion,Not Important,0.5696649029982364
+280,Engg/Diploma,Candidate's Caste/Religion,Important,0.2396384479717813
+281,Engg/Diploma,Candidate's Caste/Religion,Very Important,0.16358024691358025
+282,Engg/Diploma,Agri Loan,MEDIAN,3.333333333
+283,Engg/Diploma,Electricity for Agriculture,MEDIAN,4.444444444
+284,Engg/Diploma,Support Price for Agri Prod,MEDIAN,4.444444444
+285,Engg/Diploma,Irrigation Programmes,MEDIAN,4.444444444
+286,Engg/Diploma,Seeds & Fertilizers Subsidy,MEDIAN,4.444444444
+287,Engg/Diploma,Accessibility of MP,MEDIAN,4.444444444
+288,Engg/Diploma,Anti-Terrorism,MEDIAN,4.444444444
+289,Engg/Diploma,Better Employment,MEDIAN,4.444444444
+290,Engg/Diploma,Better Electric Supply,MEDIAN,4.444444444
+291,Engg/Diploma,Better Hospitals / Primary Healthcare Centres,MEDIAN,4.444444444
+292,Engg/Diploma,Better Law and Order / Policing,MEDIAN,4.444444444
+293,Engg/Diploma,Better Public Transport,MEDIAN,4.444444444
+294,Engg/Diploma,Better Roads,MEDIAN,4.444444444
+295,Engg/Diploma,Better Schools,MEDIAN,4.444444444
+296,Engg/Diploma,Drinking Water,MEDIAN,4.444444444
+297,Engg/Diploma,Empowerment of Women,MEDIAN,4.444444444
+298,Engg/Diploma,Environmental issues,MEDIAN,4.444444444
+299,Engg/Diploma,Eradication of Corruption,MEDIAN,3.333333333
+300,Engg/Diploma,Reservation for Jobs and Education,MEDIAN,4.444444444
+301,Engg/Diploma,Security for Women,MEDIAN,4.444444444
+302,Engg/Diploma,Strong Defence/Military,MEDIAN,4.444444444
+303,Engg/Diploma,Subsidized Food Distribution,MEDIAN,4.444444444
+304,Engg/Diploma,Jobs Training,MEDIAN,4.444444444
+305,Engg/Diploma,Trustworthiness of MP,MEDIAN,4.444444444
+306,Engg/Diploma,Other,MEDIAN,4.444444444
+307,Engg/Diploma,Better Garbage Clearance,MEDIAN,3.333333333
+308,Engg/Diploma,Encroachment of Public Lands / Lakes etc,MEDIAN,4.444444444
+309,Engg/Diploma,Facility for Pedestrians and Cyclists on Roads,MEDIAN,4.444444444
+310,Engg/Diploma,Lower Food Prices for Consumers,MEDIAN,4.444444444
+311,Engg/Diploma,Traffic Congestion,MEDIAN,4.444444444

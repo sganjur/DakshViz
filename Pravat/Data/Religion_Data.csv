@@ -1,0 +1,274 @@
+,0,1,2,3
+0,Hindu,The Candidate,Important,0.356113610284635
+1,Hindu,The Candidate,Not Important,0.22006153721173471
+2,Hindu,The Candidate,Very Important,0.39309686525787746
+3,Hindu,Candidate's Party,Very Important,0.2517745260314591
+4,Hindu,Candidate's Party,Not Important,0.23544076281771378
+5,Hindu,Candidate's Party,Important,0.4835088396275272
+6,Hindu,Candidate's Caste/Religion,Not Important,0.5890309412350092
+7,Hindu,Candidate's Caste/Religion,Important,0.23493810737532622
+8,Hindu,Candidate's Caste/Religion,Very Important,0.13879383003137788
+9,Hindu,Agri Loan,MEDIAN,3.333333333
+10,Hindu,Electricity for Agriculture,MEDIAN,4.444444444
+11,Hindu,Support Price for Agri Prod,MEDIAN,3.333333333
+12,Hindu,Irrigation Programmes,MEDIAN,3.333333333
+13,Hindu,Seeds & Fertilizers Subsidy,MEDIAN,3.333333333
+14,Hindu,Accessibility of MP,MEDIAN,3.333333333
+15,Hindu,Anti-Terrorism,MEDIAN,3.333333333
+16,Hindu,Better Employment,MEDIAN,3.333333333
+17,Hindu,Better Electric Supply,MEDIAN,4.444444444
+18,Hindu,Better Hospitals / Primary Healthcare Centres,MEDIAN,3.333333333
+19,Hindu,Better Law and Order / Policing,MEDIAN,4.444444444
+20,Hindu,Better Public Transport,MEDIAN,4.444444444
+21,Hindu,Better Roads,MEDIAN,4.444444444
+22,Hindu,Better Schools,MEDIAN,4.444444444
+23,Hindu,Drinking Water,MEDIAN,4.444444444
+24,Hindu,Empowerment of Women,MEDIAN,3.333333333
+25,Hindu,Environmental issues,MEDIAN,3.333333333
+26,Hindu,Eradication of Corruption,MEDIAN,3.333333333
+27,Hindu,Reservation for Jobs and Education,MEDIAN,3.333333333
+28,Hindu,Security for Women,MEDIAN,3.333333333
+29,Hindu,Strong Defence/Military,MEDIAN,3.333333333
+30,Hindu,Subsidized Food Distribution,MEDIAN,3.333333333
+31,Hindu,Jobs Training,MEDIAN,3.333333333
+32,Hindu,Trustworthiness of MP,MEDIAN,3.333333333
+33,Hindu,Other,MEDIAN,4.444444444
+34,Hindu,Better Garbage Clearance,MEDIAN,3.333333333
+35,Hindu,Encroachment of Public Lands / Lakes etc,MEDIAN,4.444444444
+36,Hindu,Facility for Pedestrians and Cyclists on Roads,MEDIAN,4.444444444
+37,Hindu,Lower Food Prices for Consumers,MEDIAN,4.444444444
+38,Hindu,Traffic Congestion,MEDIAN,4.444444444
+39,Christian,The Candidate,Important,0.39858744050360817
+40,Christian,The Candidate,Not Important,0.23353293413173654
+41,Christian,The Candidate,Very Important,0.33532934131736525
+42,Christian,Candidate's Party,Very Important,0.25134346691232917
+43,Christian,Candidate's Party,Not Important,0.21510824504836482
+44,Christian,Candidate's Party,Important,0.5008444649163212
+45,Christian,Candidate's Caste/Religion,Not Important,0.5512052817442039
+46,Christian,Candidate's Caste/Religion,Important,0.2660832181790266
+47,Christian,Candidate's Caste/Religion,Very Important,0.14693689543988944
+48,Christian,Agri Loan,MEDIAN,3.333333333
+49,Christian,Electricity for Agriculture,MEDIAN,4.444444444
+50,Christian,Support Price for Agri Prod,MEDIAN,3.333333333
+51,Christian,Irrigation Programmes,MEDIAN,4.444444444
+52,Christian,Seeds & Fertilizers Subsidy,MEDIAN,4.444444444
+53,Christian,Accessibility of MP,MEDIAN,4.444444444
+54,Christian,Anti-Terrorism,MEDIAN,4.444444444
+55,Christian,Better Employment,MEDIAN,4.444444444
+56,Christian,Better Electric Supply,MEDIAN,4.444444444
+57,Christian,Better Hospitals / Primary Healthcare Centres,MEDIAN,4.444444444
+58,Christian,Better Law and Order / Policing,MEDIAN,4.444444444
+59,Christian,Better Public Transport,MEDIAN,4.444444444
+60,Christian,Better Roads,MEDIAN,4.444444444
+61,Christian,Better Schools,MEDIAN,4.444444444
+62,Christian,Drinking Water,MEDIAN,4.444444444
+63,Christian,Empowerment of Women,MEDIAN,4.444444444
+64,Christian,Environmental issues,MEDIAN,4.444444444
+65,Christian,Eradication of Corruption,MEDIAN,4.444444444
+66,Christian,Reservation for Jobs and Education,MEDIAN,4.444444444
+67,Christian,Security for Women,MEDIAN,4.444444444
+68,Christian,Strong Defence/Military,MEDIAN,4.444444444
+69,Christian,Subsidized Food Distribution,MEDIAN,4.444444444
+70,Christian,Jobs Training,MEDIAN,4.444444444
+71,Christian,Trustworthiness of MP,MEDIAN,4.444444444
+72,Christian,Other,MEDIAN,4.444444444
+73,Christian,Better Garbage Clearance,MEDIAN,4.444444444
+74,Christian,Encroachment of Public Lands / Lakes etc,MEDIAN,4.444444444
+75,Christian,Facility for Pedestrians and Cyclists on Roads,MEDIAN,4.444444444
+76,Christian,Lower Food Prices for Consumers,MEDIAN,4.444444444
+77,Christian,Traffic Congestion,MEDIAN,4.444444444
+78,Muslim,The Candidate,Important,0.3776632989896969
+79,Muslim,The Candidate,Not Important,0.22676803040912275
+80,Muslim,The Candidate,Very Important,0.35240572171651496
+81,Muslim,Candidate's Party,Very Important,0.22366710013003901
+82,Muslim,Candidate's Party,Not Important,0.21786535960788236
+83,Muslim,Candidate's Party,Important,0.5135040512153646
+84,Muslim,Candidate's Caste/Religion,Not Important,0.5006501950585176
+85,Muslim,Candidate's Caste/Religion,Important,0.2771331399419826
+86,Muslim,Candidate's Caste/Religion,Very Important,0.17180154046213864
+87,Muslim,Agri Loan,MEDIAN,3.333333333
+88,Muslim,Electricity for Agriculture,MEDIAN,4.444444444
+89,Muslim,Support Price for Agri Prod,MEDIAN,4.444444444
+90,Muslim,Irrigation Programmes,MEDIAN,4.444444444
+91,Muslim,Seeds & Fertilizers Subsidy,MEDIAN,3.333333333
+92,Muslim,Accessibility of MP,MEDIAN,3.333333333
+93,Muslim,Anti-Terrorism,MEDIAN,4.444444444
+94,Muslim,Better Employment,MEDIAN,3.333333333
+95,Muslim,Better Electric Supply,MEDIAN,4.444444444
+96,Muslim,Better Hospitals / Primary Healthcare Centres,MEDIAN,4.444444444
+97,Muslim,Better Law and Order / Policing,MEDIAN,4.444444444
+98,Muslim,Better Public Transport,MEDIAN,4.444444444
+99,Muslim,Better Roads,MEDIAN,4.444444444
+100,Muslim,Better Schools,MEDIAN,4.444444444
+101,Muslim,Drinking Water,MEDIAN,4.444444444
+102,Muslim,Empowerment of Women,MEDIAN,3.333333333
+103,Muslim,Environmental issues,MEDIAN,3.333333333
+104,Muslim,Eradication of Corruption,MEDIAN,3.333333333
+105,Muslim,Reservation for Jobs and Education,MEDIAN,3.333333333
+106,Muslim,Security for Women,MEDIAN,3.333333333
+107,Muslim,Strong Defence/Military,MEDIAN,4.444444444
+108,Muslim,Subsidized Food Distribution,MEDIAN,3.333333333
+109,Muslim,Jobs Training,MEDIAN,3.333333333
+110,Muslim,Trustworthiness of MP,MEDIAN,3.333333333
+111,Muslim,Other,MEDIAN,4.444444444
+112,Muslim,Better Garbage Clearance,MEDIAN,3.333333333
+113,Muslim,Encroachment of Public Lands / Lakes etc,MEDIAN,4.444444444
+114,Muslim,Facility for Pedestrians and Cyclists on Roads,MEDIAN,4.444444444
+115,Muslim,Lower Food Prices for Consumers,MEDIAN,4.444444444
+116,Muslim,Traffic Congestion,MEDIAN,4.444444444
+117,Jain,The Candidate,Important,0.26901004304160686
+118,Jain,The Candidate,Not Important,0.41104734576757535
+119,Jain,The Candidate,Very Important,0.2812051649928264
+120,Jain,Candidate's Party,Very Important,0.2532281205164993
+121,Jain,Candidate's Party,Not Important,0.1800573888091822
+122,Jain,Candidate's Party,Important,0.5380200860832137
+123,Jain,Candidate's Caste/Religion,Not Important,0.39741750358680056
+124,Jain,Candidate's Caste/Religion,Important,0.266857962697274
+125,Jain,Candidate's Caste/Religion,Very Important,0.2934002869440459
+126,Jain,Agri Loan,MEDIAN,2.222222222
+127,Jain,Electricity for Agriculture,MEDIAN,4.444444444
+128,Jain,Support Price for Agri Prod,MEDIAN,6.666666667
+129,Jain,Irrigation Programmes,MEDIAN,4.444444444
+130,Jain,Seeds & Fertilizers Subsidy,MEDIAN,3.333333333
+131,Jain,Accessibility of MP,MEDIAN,2.222222222
+132,Jain,Anti-Terrorism,MEDIAN,4.444444444
+133,Jain,Better Employment,MEDIAN,4.444444444
+134,Jain,Better Electric Supply,MEDIAN,4.444444444
+135,Jain,Better Hospitals / Primary Healthcare Centres,MEDIAN,3.333333333
+136,Jain,Better Law and Order / Policing,MEDIAN,4.444444444
+137,Jain,Better Public Transport,MEDIAN,4.444444444
+138,Jain,Better Roads,MEDIAN,4.444444444
+139,Jain,Better Schools,MEDIAN,3.333333333
+140,Jain,Drinking Water,MEDIAN,4.444444444
+141,Jain,Empowerment of Women,MEDIAN,4.444444444
+142,Jain,Environmental issues,MEDIAN,4.444444444
+143,Jain,Eradication of Corruption,MEDIAN,3.333333333
+144,Jain,Reservation for Jobs and Education,MEDIAN,4.444444444
+145,Jain,Security for Women,MEDIAN,4.444444444
+146,Jain,Strong Defence/Military,MEDIAN,4.444444444
+147,Jain,Subsidized Food Distribution,MEDIAN,3.333333333
+148,Jain,Jobs Training,MEDIAN,4.444444444
+149,Jain,Trustworthiness of MP,MEDIAN,4.444444444
+150,Jain,Other,MEDIAN,4.444444444
+151,Jain,Better Garbage Clearance,MEDIAN,3.333333333
+152,Jain,Encroachment of Public Lands / Lakes etc,MEDIAN,4.444444444
+153,Jain,Facility for Pedestrians and Cyclists on Roads,MEDIAN,4.444444444
+154,Jain,Lower Food Prices for Consumers,MEDIAN,4.444444444
+155,Jain,Traffic Congestion,MEDIAN,4.444444444
+156,Others,The Candidate,Important,0.37032967032967035
+157,Others,The Candidate,Not Important,0.26263736263736265
+158,Others,The Candidate,Very Important,0.2725274725274725
+159,Others,Candidate's Party,Very Important,0.35604395604395606
+160,Others,Candidate's Party,Not Important,0.17802197802197803
+161,Others,Candidate's Party,Important,0.35384615384615387
+162,Others,Candidate's Caste/Religion,Not Important,0.4956043956043956
+163,Others,Candidate's Caste/Religion,Important,0.26263736263736265
+164,Others,Candidate's Caste/Religion,Very Important,0.1076923076923077
+165,Others,Agri Loan,MEDIAN,3.333333333
+166,Others,Electricity for Agriculture,MEDIAN,4.444444444
+167,Others,Support Price for Agri Prod,MEDIAN,3.333333333
+168,Others,Irrigation Programmes,MEDIAN,3.333333333
+169,Others,Seeds & Fertilizers Subsidy,MEDIAN,4.444444444
+170,Others,Accessibility of MP,MEDIAN,3.333333333
+171,Others,Anti-Terrorism,MEDIAN,4.444444444
+172,Others,Better Employment,MEDIAN,3.333333333
+173,Others,Better Electric Supply,MEDIAN,4.444444444
+174,Others,Better Hospitals / Primary Healthcare Centres,MEDIAN,4.444444444
+175,Others,Better Law and Order / Policing,MEDIAN,4.444444444
+176,Others,Better Public Transport,MEDIAN,4.444444444
+177,Others,Better Roads,MEDIAN,4.444444444
+178,Others,Better Schools,MEDIAN,4.444444444
+179,Others,Drinking Water,MEDIAN,4.444444444
+180,Others,Empowerment of Women,MEDIAN,4.444444444
+181,Others,Environmental issues,MEDIAN,4.444444444
+182,Others,Eradication of Corruption,MEDIAN,4.444444444
+183,Others,Reservation for Jobs and Education,MEDIAN,3.333333333
+184,Others,Security for Women,MEDIAN,4.444444444
+185,Others,Strong Defence/Military,MEDIAN,4.444444444
+186,Others,Subsidized Food Distribution,MEDIAN,4.444444444
+187,Others,Jobs Training,MEDIAN,4.444444444
+188,Others,Trustworthiness of MP,MEDIAN,4.444444444
+189,Others,Other,MEDIAN,4.444444444
+190,Others,Better Garbage Clearance,MEDIAN,3.333333333
+191,Others,Encroachment of Public Lands / Lakes etc,MEDIAN,4.444444444
+192,Others,Facility for Pedestrians and Cyclists on Roads,MEDIAN,4.444444444
+193,Others,Lower Food Prices for Consumers,MEDIAN,4.444444444
+194,Others,Traffic Congestion,MEDIAN,4.444444444
+195,Sikh,The Candidate,Important,0.22498160412067697
+196,Sikh,The Candidate,Not Important,0.10927152317880795
+197,Sikh,The Candidate,Very Important,0.6609639440765268
+198,Sikh,Candidate's Party,Very Important,0.19959529065489331
+199,Sikh,Candidate's Party,Not Important,0.42089771891096395
+200,Sikh,Candidate's Party,Important,0.3769315673289183
+201,Sikh,Candidate's Caste/Religion,Not Important,0.7851361295069904
+202,Sikh,Candidate's Caste/Religion,Important,0.15544518027961737
+203,Sikh,Candidate's Caste/Religion,Very Important,0.056291390728476824
+204,Sikh,Agri Loan,MEDIAN,2.222222222
+205,Sikh,Electricity for Agriculture,MEDIAN,2.222222222
+206,Sikh,Support Price for Agri Prod,MEDIAN,2.222222222
+207,Sikh,Irrigation Programmes,MEDIAN,2.222222222
+208,Sikh,Seeds & Fertilizers Subsidy,MEDIAN,2.222222222
+209,Sikh,Accessibility of MP,MEDIAN,2.222222222
+210,Sikh,Anti-Terrorism,MEDIAN,2.222222222
+211,Sikh,Better Employment,MEDIAN,2.222222222
+212,Sikh,Better Electric Supply,MEDIAN,2.222222222
+213,Sikh,Better Hospitals / Primary Healthcare Centres,MEDIAN,2.222222222
+214,Sikh,Better Law and Order / Policing,MEDIAN,2.222222222
+215,Sikh,Better Public Transport,MEDIAN,2.222222222
+216,Sikh,Better Roads,MEDIAN,2.222222222
+217,Sikh,Better Schools,MEDIAN,2.222222222
+218,Sikh,Drinking Water,MEDIAN,2.222222222
+219,Sikh,Empowerment of Women,MEDIAN,2.222222222
+220,Sikh,Environmental issues,MEDIAN,2.222222222
+221,Sikh,Eradication of Corruption,MEDIAN,3.333333333
+222,Sikh,Reservation for Jobs and Education,MEDIAN,2.222222222
+223,Sikh,Security for Women,MEDIAN,2.222222222
+224,Sikh,Strong Defence/Military,MEDIAN,2.222222222
+225,Sikh,Subsidized Food Distribution,MEDIAN,3.333333333
+226,Sikh,Jobs Training,MEDIAN,2.222222222
+227,Sikh,Trustworthiness of MP,MEDIAN,2.222222222
+228,Sikh,Other,MEDIAN,4.444444444
+229,Sikh,Better Garbage Clearance,MEDIAN,2.222222222
+230,Sikh,Encroachment of Public Lands / Lakes etc,MEDIAN,2.222222222
+231,Sikh,Facility for Pedestrians and Cyclists on Roads,MEDIAN,2.222222222
+232,Sikh,Lower Food Prices for Consumers,MEDIAN,2.222222222
+233,Sikh,Traffic Congestion,MEDIAN,4.444444444
+234,Buddhist,The Candidate,Important,0.2962126912465513
+235,Buddhist,The Candidate,Not Important,0.30624529721595184
+236,Buddhist,The Candidate,Very Important,0.3396037120642087
+237,Buddhist,Candidate's Party,Very Important,0.25482819162277404
+238,Buddhist,Candidate's Party,Not Important,0.25733634311512416
+239,Buddhist,Candidate's Party,Important,0.45221971407072986
+240,Buddhist,Candidate's Caste/Religion,Not Important,0.4532229746676699
+241,Buddhist,Candidate's Caste/Religion,Important,0.32856784549786805
+242,Buddhist,Candidate's Caste/Religion,Very Important,0.15149235013794835
+243,Buddhist,Agri Loan,MEDIAN,3.333333333
+244,Buddhist,Electricity for Agriculture,MEDIAN,4.444444444
+245,Buddhist,Support Price for Agri Prod,MEDIAN,4.444444444
+246,Buddhist,Irrigation Programmes,MEDIAN,4.444444444
+247,Buddhist,Seeds & Fertilizers Subsidy,MEDIAN,3.333333333
+248,Buddhist,Accessibility of MP,MEDIAN,3.333333333
+249,Buddhist,Anti-Terrorism,MEDIAN,4.444444444
+250,Buddhist,Better Employment,MEDIAN,4.444444444
+251,Buddhist,Better Electric Supply,MEDIAN,4.444444444
+252,Buddhist,Better Hospitals / Primary Healthcare Centres,MEDIAN,4.444444444
+253,Buddhist,Better Law and Order / Policing,MEDIAN,4.444444444
+254,Buddhist,Better Public Transport,MEDIAN,4.444444444
+255,Buddhist,Better Roads,MEDIAN,4.444444444
+256,Buddhist,Better Schools,MEDIAN,4.444444444
+257,Buddhist,Drinking Water,MEDIAN,4.444444444
+258,Buddhist,Empowerment of Women,MEDIAN,4.444444444
+259,Buddhist,Environmental issues,MEDIAN,4.444444444
+260,Buddhist,Eradication of Corruption,MEDIAN,3.333333333
+261,Buddhist,Reservation for Jobs and Education,MEDIAN,4.444444444
+262,Buddhist,Security for Women,MEDIAN,4.444444444
+263,Buddhist,Strong Defence/Military,MEDIAN,4.444444444
+264,Buddhist,Subsidized Food Distribution,MEDIAN,4.444444444
+265,Buddhist,Jobs Training,MEDIAN,4.444444444
+266,Buddhist,Trustworthiness of MP,MEDIAN,4.444444444
+267,Buddhist,Other,MEDIAN,4.444444444
+268,Buddhist,Better Garbage Clearance,MEDIAN,4.444444444
+269,Buddhist,Encroachment of Public Lands / Lakes etc,MEDIAN,4.444444444
+270,Buddhist,Facility for Pedestrians and Cyclists on Roads,MEDIAN,4.444444444
+271,Buddhist,Lower Food Prices for Consumers,MEDIAN,4.444444444
+272,Buddhist,Traffic Congestion,MEDIAN,4.444444444

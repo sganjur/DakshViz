@@ -1,0 +1,157 @@
+,0,1,2,3
+0,SC,The Candidate,Important,0.38260133091349063
+1,SC,The Candidate,Not Important,0.16261343012704174
+2,SC,The Candidate,Very Important,0.4357652752571083
+3,SC,Candidate's Party,Very Important,0.245178463399879
+4,SC,Candidate's Party,Not Important,0.28600120992135514
+5,SC,Candidate's Party,Important,0.45309134906231097
+6,SC,Candidate's Caste/Religion,Not Important,0.6564065335753176
+7,SC,Candidate's Caste/Religion,Important,0.230659407138536
+8,SC,Candidate's Caste/Religion,Very Important,0.08931639443436176
+9,SC,Agri Loan,MEDIAN,3.333333333
+10,SC,Electricity for Agriculture,MEDIAN,3.333333333
+11,SC,Support Price for Agri Prod,MEDIAN,3.333333333
+12,SC,Irrigation Programmes,MEDIAN,3.333333333
+13,SC,Seeds & Fertilizers Subsidy,MEDIAN,3.333333333
+14,SC,Accessibility of MP,MEDIAN,3.333333333
+15,SC,Anti-Terrorism,MEDIAN,3.333333333
+16,SC,Better Employment,MEDIAN,3.333333333
+17,SC,Better Electric Supply,MEDIAN,3.333333333
+18,SC,Better Hospitals / Primary Healthcare Centres,MEDIAN,3.333333333
+19,SC,Better Law and Order / Policing,MEDIAN,3.333333333
+20,SC,Better Public Transport,MEDIAN,3.333333333
+21,SC,Better Roads,MEDIAN,3.333333333
+22,SC,Better Schools,MEDIAN,3.333333333
+23,SC,Drinking Water,MEDIAN,3.333333333
+24,SC,Empowerment of Women,MEDIAN,3.333333333
+25,SC,Environmental issues,MEDIAN,3.333333333
+26,SC,Eradication of Corruption,MEDIAN,3.333333333
+27,SC,Reservation for Jobs and Education,MEDIAN,3.333333333
+28,SC,Security for Women,MEDIAN,3.333333333
+29,SC,Strong Defence/Military,MEDIAN,3.333333333
+30,SC,Subsidized Food Distribution,MEDIAN,3.333333333
+31,SC,Jobs Training,MEDIAN,3.333333333
+32,SC,Trustworthiness of MP,MEDIAN,3.333333333
+33,SC,Other,MEDIAN,4.444444444
+34,SC,Better Garbage Clearance,MEDIAN,3.333333333
+35,SC,Encroachment of Public Lands / Lakes etc,MEDIAN,3.333333333
+36,SC,Facility for Pedestrians and Cyclists on Roads,MEDIAN,3.333333333
+37,SC,Lower Food Prices for Consumers,MEDIAN,3.333333333
+38,SC,Traffic Congestion,MEDIAN,4.444444444
+39,OBC,The Candidate,Important,0.37693499327204677
+40,OBC,The Candidate,Not Important,0.18441376347004082
+41,OBC,The Candidate,Very Important,0.41495075590533376
+42,OBC,Candidate's Party,Very Important,0.2569851985028891
+43,OBC,Candidate's Party,Not Important,0.2511166140868641
+44,OBC,Candidate's Party,Important,0.4718613250110248
+45,OBC,Candidate's Caste/Religion,Not Important,0.6173094971561677
+46,OBC,Candidate's Caste/Religion,Important,0.2415844047174825
+47,OBC,Candidate's Caste/Religion,Very Important,0.11328968644345692
+48,OBC,Agri Loan,MEDIAN,3.333333333
+49,OBC,Electricity for Agriculture,MEDIAN,4.444444444
+50,OBC,Support Price for Agri Prod,MEDIAN,3.333333333
+51,OBC,Irrigation Programmes,MEDIAN,3.333333333
+52,OBC,Seeds & Fertilizers Subsidy,MEDIAN,3.333333333
+53,OBC,Accessibility of MP,MEDIAN,3.333333333
+54,OBC,Anti-Terrorism,MEDIAN,3.333333333
+55,OBC,Better Employment,MEDIAN,3.333333333
+56,OBC,Better Electric Supply,MEDIAN,4.444444444
+57,OBC,Better Hospitals / Primary Healthcare Centres,MEDIAN,4.444444444
+58,OBC,Better Law and Order / Policing,MEDIAN,4.444444444
+59,OBC,Better Public Transport,MEDIAN,4.444444444
+60,OBC,Better Roads,MEDIAN,4.444444444
+61,OBC,Better Schools,MEDIAN,4.444444444
+62,OBC,Drinking Water,MEDIAN,4.444444444
+63,OBC,Empowerment of Women,MEDIAN,3.333333333
+64,OBC,Environmental issues,MEDIAN,3.333333333
+65,OBC,Eradication of Corruption,MEDIAN,3.333333333
+66,OBC,Reservation for Jobs and Education,MEDIAN,3.333333333
+67,OBC,Security for Women,MEDIAN,3.333333333
+68,OBC,Strong Defence/Military,MEDIAN,3.333333333
+69,OBC,Subsidized Food Distribution,MEDIAN,3.333333333
+70,OBC,Jobs Training,MEDIAN,3.333333333
+71,OBC,Trustworthiness of MP,MEDIAN,3.333333333
+72,OBC,Other,MEDIAN,4.444444444
+73,OBC,Better Garbage Clearance,MEDIAN,4.444444444
+74,OBC,Encroachment of Public Lands / Lakes etc,MEDIAN,4.444444444
+75,OBC,Facility for Pedestrians and Cyclists on Roads,MEDIAN,4.444444444
+76,OBC,Lower Food Prices for Consumers,MEDIAN,4.444444444
+77,OBC,Traffic Congestion,MEDIAN,4.444444444
+78,ST,The Candidate,Important,0.371240452989202
+79,ST,The Candidate,Not Important,0.19731366868580458
+80,ST,The Candidate,Very Important,0.39994732683697654
+81,ST,Candidate's Party,Very Important,0.29075585988938635
+82,ST,Candidate's Party,Not Important,0.20927047669212537
+83,ST,Candidate's Party,Important,0.47632341322096394
+84,ST,Candidate's Caste/Religion,Not Important,0.6210165920463524
+85,ST,Candidate's Caste/Religion,Important,0.23565973136686857
+86,ST,Candidate's Caste/Religion,Very Important,0.10455622860152752
+87,ST,Agri Loan,MEDIAN,3.333333333
+88,ST,Electricity for Agriculture,MEDIAN,3.333333333
+89,ST,Support Price for Agri Prod,MEDIAN,3.333333333
+90,ST,Irrigation Programmes,MEDIAN,3.333333333
+91,ST,Seeds & Fertilizers Subsidy,MEDIAN,3.333333333
+92,ST,Accessibility of MP,MEDIAN,3.333333333
+93,ST,Anti-Terrorism,MEDIAN,3.333333333
+94,ST,Better Employment,MEDIAN,3.333333333
+95,ST,Better Electric Supply,MEDIAN,4.444444444
+96,ST,Better Hospitals / Primary Healthcare Centres,MEDIAN,3.333333333
+97,ST,Better Law and Order / Policing,MEDIAN,3.333333333
+98,ST,Better Public Transport,MEDIAN,3.333333333
+99,ST,Better Roads,MEDIAN,4.444444444
+100,ST,Better Schools,MEDIAN,3.333333333
+101,ST,Drinking Water,MEDIAN,3.333333333
+102,ST,Empowerment of Women,MEDIAN,3.333333333
+103,ST,Environmental issues,MEDIAN,3.333333333
+104,ST,Eradication of Corruption,MEDIAN,3.333333333
+105,ST,Reservation for Jobs and Education,MEDIAN,3.333333333
+106,ST,Security for Women,MEDIAN,3.333333333
+107,ST,Strong Defence/Military,MEDIAN,3.333333333
+108,ST,Subsidized Food Distribution,MEDIAN,3.333333333
+109,ST,Jobs Training,MEDIAN,3.333333333
+110,ST,Trustworthiness of MP,MEDIAN,3.333333333
+111,ST,Other,MEDIAN,4.444444444
+112,ST,Better Garbage Clearance,MEDIAN,3.333333333
+113,ST,Encroachment of Public Lands / Lakes etc,MEDIAN,4.444444444
+114,ST,Facility for Pedestrians and Cyclists on Roads,MEDIAN,4.444444444
+115,ST,Lower Food Prices for Consumers,MEDIAN,4.444444444
+116,ST,Traffic Congestion,MEDIAN,4.444444444
+117,General,The Candidate,Important,0.32017404483121076
+118,General,The Candidate,Not Important,0.2830917402038671
+119,General,The Candidate,Very Important,0.3526485614412476
+120,General,Candidate's Party,Very Important,0.23365274145053655
+121,General,Candidate's Party,Not Important,0.20926935393189763
+122,General,Candidate's Party,Important,0.510107800239556
+123,General,Candidate's Caste/Religion,Not Important,0.513175584834633
+124,General,Candidate's Caste/Religion,Important,0.23742941650981447
+125,General,Candidate's Caste/Religion,Very Important,0.19444376543058983
+126,General,Agri Loan,MEDIAN,3.333333333
+127,General,Electricity for Agriculture,MEDIAN,4.444444444
+128,General,Support Price for Agri Prod,MEDIAN,4.444444444
+129,General,Irrigation Programmes,MEDIAN,4.444444444
+130,General,Seeds & Fertilizers Subsidy,MEDIAN,3.333333333
+131,General,Accessibility of MP,MEDIAN,3.333333333
+132,General,Anti-Terrorism,MEDIAN,4.444444444
+133,General,Better Employment,MEDIAN,4.444444444
+134,General,Better Electric Supply,MEDIAN,4.444444444
+135,General,Better Hospitals / Primary Healthcare Centres,MEDIAN,3.333333333
+136,General,Better Law and Order / Policing,MEDIAN,4.444444444
+137,General,Better Public Transport,MEDIAN,4.444444444
+138,General,Better Roads,MEDIAN,4.444444444
+139,General,Better Schools,MEDIAN,4.444444444
+140,General,Drinking Water,MEDIAN,4.444444444
+141,General,Empowerment of Women,MEDIAN,4.444444444
+142,General,Environmental issues,MEDIAN,4.444444444
+143,General,Eradication of Corruption,MEDIAN,3.333333333
+144,General,Reservation for Jobs and Education,MEDIAN,4.444444444
+145,General,Security for Women,MEDIAN,4.444444444
+146,General,Strong Defence/Military,MEDIAN,4.444444444
+147,General,Subsidized Food Distribution,MEDIAN,3.333333333
+148,General,Jobs Training,MEDIAN,3.333333333
+149,General,Trustworthiness of MP,MEDIAN,4.444444444
+150,General,Other,MEDIAN,4.444444444
+151,General,Better Garbage Clearance,MEDIAN,3.333333333
+152,General,Encroachment of Public Lands / Lakes etc,MEDIAN,4.444444444
+153,General,Facility for Pedestrians and Cyclists on Roads,MEDIAN,4.444444444
+154,General,Lower Food Prices for Consumers,MEDIAN,4.444444444
+155,General,Traffic Congestion,MEDIAN,4.444444444

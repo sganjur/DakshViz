@@ -1,0 +1,79 @@
+,0,1,2,3
+0,Rural,The Candidate,Important,0.3634779815153462
+1,Rural,The Candidate,Not Important,0.21240671180744328
+2,Rural,The Candidate,Very Important,0.3949241338407552
+3,Rural,Candidate's Party,Very Important,0.2393861513369248
+4,Rural,Candidate's Party,Not Important,0.24591632481589482
+5,Rural,Candidate's Party,Important,0.4860747294024613
+6,Rural,Candidate's Caste/Religion,Not Important,0.5966490386991549
+7,Rural,Candidate's Caste/Religion,Important,0.2394788217268818
+8,Rural,Candidate's Caste/Religion,Very Important,0.12774304354272722
+9,Rural,Agri Loan,MEDIAN,3.333333333
+10,Rural,Electricity for Agriculture,MEDIAN,4.444444444
+11,Rural,Support Price for Agri Prod,MEDIAN,3.333333333
+12,Rural,Irrigation Programmes,MEDIAN,3.333333333
+13,Rural,Seeds & Fertilizers Subsidy,MEDIAN,3.333333333
+14,Rural,Accessibility of MP,MEDIAN,3.333333333
+15,Rural,Anti-Terrorism,MEDIAN,3.333333333
+16,Rural,Better Employment,MEDIAN,3.333333333
+17,Rural,Better Electric Supply,MEDIAN,4.444444444
+18,Rural,Better Hospitals / Primary Healthcare Centres,MEDIAN,3.333333333
+19,Rural,Better Law and Order / Policing,MEDIAN,3.333333333
+20,Rural,Better Public Transport,MEDIAN,3.333333333
+21,Rural,Better Roads,MEDIAN,4.444444444
+22,Rural,Better Schools,MEDIAN,3.333333333
+23,Rural,Drinking Water,MEDIAN,3.333333333
+24,Rural,Empowerment of Women,MEDIAN,3.333333333
+25,Rural,Environmental issues,MEDIAN,3.333333333
+26,Rural,Eradication of Corruption,MEDIAN,3.333333333
+27,Rural,Reservation for Jobs and Education,MEDIAN,3.333333333
+28,Rural,Security for Women,MEDIAN,3.333333333
+29,Rural,Strong Defence/Military,MEDIAN,3.333333333
+30,Rural,Subsidized Food Distribution,MEDIAN,3.333333333
+31,Rural,Jobs Training,MEDIAN,3.333333333
+32,Rural,Trustworthiness of MP,MEDIAN,3.333333333
+33,Rural,Other,MEDIAN,4.444444444
+34,Rural,Better Garbage Clearance,MEDIAN,3.333333333
+35,Rural,Encroachment of Public Lands / Lakes etc,MEDIAN,3.333333333
+36,Rural,Facility for Pedestrians and Cyclists on Roads,MEDIAN,3.333333333
+37,Rural,Lower Food Prices for Consumers,MEDIAN,3.333333333
+38,Rural,Traffic Congestion,MEDIAN,10.0
+39,Urban,The Candidate,Important,0.3347064181519094
+40,Urban,The Candidate,Not Important,0.24079285452098373
+41,Urban,The Candidate,Very Important,0.38636703508843484
+42,Urban,Candidate's Party,Very Important,0.2697363949046318
+43,Urban,Candidate's Party,Not Important,0.2169474013350191
+44,Urban,Candidate's Party,Important,0.4776159984773713
+45,Urban,Candidate's Caste/Religion,Not Important,0.5480375763013717
+46,Urban,Candidate's Caste/Religion,Important,0.23846812675884008
+47,Urban,Candidate's Caste/Religion,Very Important,0.16864472449936785
+48,Urban,Agri Loan,MEDIAN,3.333333333
+49,Urban,Electricity for Agriculture,MEDIAN,4.444444444
+50,Urban,Support Price for Agri Prod,MEDIAN,4.444444444
+51,Urban,Irrigation Programmes,MEDIAN,4.444444444
+52,Urban,Seeds & Fertilizers Subsidy,MEDIAN,4.444444444
+53,Urban,Accessibility of MP,MEDIAN,3.333333333
+54,Urban,Anti-Terrorism,MEDIAN,4.444444444
+55,Urban,Better Employment,MEDIAN,4.444444444
+56,Urban,Better Electric Supply,MEDIAN,4.444444444
+57,Urban,Better Hospitals / Primary Healthcare Centres,MEDIAN,4.444444444
+58,Urban,Better Law and Order / Policing,MEDIAN,4.444444444
+59,Urban,Better Public Transport,MEDIAN,4.444444444
+60,Urban,Better Roads,MEDIAN,4.444444444
+61,Urban,Better Schools,MEDIAN,4.444444444
+62,Urban,Drinking Water,MEDIAN,4.444444444
+63,Urban,Empowerment of Women,MEDIAN,4.444444444
+64,Urban,Environmental issues,MEDIAN,4.444444444
+65,Urban,Eradication of Corruption,MEDIAN,3.333333333
+66,Urban,Reservation for Jobs and Education,MEDIAN,4.444444444
+67,Urban,Security for Women,MEDIAN,4.444444444
+68,Urban,Strong Defence/Military,MEDIAN,4.444444444
+69,Urban,Subsidized Food Distribution,MEDIAN,3.333333333
+70,Urban,Jobs Training,MEDIAN,3.333333333
+71,Urban,Trustworthiness of MP,MEDIAN,4.444444444
+72,Urban,Other,MEDIAN,4.444444444
+73,Urban,Better Garbage Clearance,MEDIAN,3.333333333
+74,Urban,Encroachment of Public Lands / Lakes etc,MEDIAN,4.444444444
+75,Urban,Facility for Pedestrians and Cyclists on Roads,MEDIAN,4.444444444
+76,Urban,Lower Food Prices for Consumers,MEDIAN,4.444444444
+77,Urban,Traffic Congestion,MEDIAN,4.444444444
